@@ -1,0 +1,62 @@
+<application>
+  <component name="VimLocalSettings">
+    <state version="5" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1564741228361">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1564756073676">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/12e-dev-demodata-1.public.quotation_request" timestamp="1564740011713">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1564742095294">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console" timestamp="1564740012360">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/odoo-dev/odoo12e/addons_vpc/quotation/models/quotation_request.py" timestamp="1564756305856">
+        <mark key="[" line="289" column="80" />
+      </file>
+      <file name="/quotation_request [postgres@localhost]" timestamp="1564740011633">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/odoo-dev/odoo12e/addons_vpc/quotation/README.md" timestamp="1564730678666">
+        <mark key="[" line="12" column="73" />
+      </file>
+      <file name="/12e-dev-demodata-1.public.base_import_mapping" timestamp="1564740010781">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1564741228334">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/odoo-dev/odoo12e/addons_vpc/quotation/__init__.py" timestamp="1564734652015">
+        <mark key="[" line="15" column="58" />
+      </file>
+      <file name="$USER_HOME$/odoo-dev/odoo12e/addons_vpc/quotation/__manifest__.py" timestamp="1564736480668">
+        <mark key="[" line="46" column="0" />
+      </file>
+      <file name="/base_import_mapping [postgres@localhost]" timestamp="1564740009252">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1564741273552">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+</application>

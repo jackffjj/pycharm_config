@@ -1,0 +1,1000 @@
+git commit -m "change venv dir"
+git push
+cd ..
+ls
+git status
+git add .
+git commit -m "change venv dir"
+git push
+git status
+cd odoo11e/
+git status
+cd oodo-dev
+cd odoo-dev/
+cd odoo-demo/
+cd odoo11e/
+cd addons_vpc/
+git status
+cd odoo
+cd odoo-dev
+git status
+git add .
+git commit -m "venv watchdog"
+git push
+cd odoo-dev
+cd odoo11e
+ls
+cd addons_vpc/
+git status
+cd ..
+git stauts
+git status
+git add .
+git commit -m "conf change"
+git push
+git status
+cd ..
+git status
+cd odoo12e/
+git status
+git add .
+git commit -m "add 12e database"
+git push
+ls
+cd odoo-dev
+ls
+cd odoo10c
+git status
+cd ..
+cd odoo11e
+git status
+git add .
+git commit -m "transfer to odoo12e dev"
+git push
+cd ..
+ls
+cd odoo-demo/
+git status
+cd odoo11e/
+git status
+cd ..
+ls
+cd odoo-venv/
+git status
+cd ..
+cd odoo-dev
+cd odoo11e/
+ls
+cd addons_vpc/
+git status
+git pull --all
+git clean -d -fx
+git pull origin master
+git fetch --all
+git reset --hard origin/master
+git pull --all
+cd ..
+cd odoo12e
+cd ..
+cd odoo12e
+ls
+git status
+git submodule add git@github.com:imlhx/odoo11e-dev-addons_vpc.git addons_vpc
+cd addons_vpc/
+git status
+git remote -v
+cd ..
+cd odoo11e
+git status
+cd addons_vpc/
+git status
+git remote -v
+git add .
+git commit -m "test addons_vpc on odoo12e" 
+git push
+cd 。。
+cd ..
+cd odoo12e
+git status
+git submodule add git@github.com:imlhx/odoo11e-dev-addons_vpc.git addons_vpc
+git status
+cd addons_vpc/
+git status
+git pull --all
+git checkout dev-a
+git status
+git log
+cd ..
+git status
+git add .
+git commit -m "addons_vpc folder"
+git push
+cd addons_vpc/
+git status
+git remote -v
+git remote origin remove
+git remote remove origin
+git remote -v
+git remote add origin git@github.com:CH-Wong/addons_vpc.git
+git remote -v
+git remote set-url --add origi git@github.com:imlhx/odoo11e-dev-addons_vpc.git
+git remote set-url --add origin git@github.com:imlhx/odoo11e-dev-addons_vpc.git
+git remote -v
+git status
+git pull --all
+git push
+git push --set-upstream origin dev-a
+cd ..
+git status
+cd addons_vpc/
+git status
+git add .
+git commit -m "save conf"
+git push
+cd ..
+git status
+git add .
+git commit -m "save addons_vpc conf"
+git push
+cd ..
+git status
+git add .
+git commit -m "odoo12e dev test"
+git push
+cd odoo12e
+git ststua
+git status
+git add .
+git commit -m "dev-db database"
+git push
+cd addons_vpc/
+git status
+git add .
+git commit -m "bom structure cost"
+git push
+cd ..
+git add .
+git status
+git add .
+git commit -m "addons_vpc commit"
+git push
+git status
+git pull --all
+cd addons_vpc/
+git status
+git pull --all
+git log
+cd ..
+git log
+cd ~
+sudo su - postgres
+mkvirtualenv -p /usr/bin/python3.6 --no-site-pakages
+mkvirtualenv 
+workon
+mkvirtualenv -p /usr/bin/python3.6 --no-site-packgaes venv-12e-demo
+sudo mkvirtualenv -p /usr/bin/python3.6 --no-site-packages venv-12e-demo
+mkvirtualenv -p /usr/bin/python3.6 --no-site-packages venv-12e-demo
+ls
+cd odoo-dev
+ls
+cd odoo12e
+cd ..
+cd odoo-demo/
+ls
+cd odoo12e
+ls
+sudo pip3 install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+pip3 install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+pip3 install -r requirements.txt
+cd odoo-dev
+ls
+cd odoo12e
+ls
+git status
+git log
+sudo apt-get install build-essential checkinstall
+sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev     libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev
+ls
+cd odoo-dev/
+git status
+cd odoo_github/
+ls
+gitstatus
+git status
+git checkout 12.0
+cd ..
+sudo su - postgres
+mkvirtualenv -p /usr/bin/python3.7 --no-site-packages venv-12c
+cd odoo-dev/
+cd odoo_github/
+ls
+pip3 install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+sudo apt-get install python3-dev
+sudo apt install libssl-dev
+sudo apt install libffi-dev
+sudo apt install python-dev
+sudo apt install build-essential
+sudo apt install libxml2-dev
+sudo apt install libxslt1-dev
+sudo apt install libsass
+sudo apt-get update 
+sudo su - postgres
+workon
+workon venv-12c
+cd odoo-dev/
+ls
+cd odoo_github/
+ls
+pip3 install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+pip install pillow
+pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+sudo apt-get install python3.7-dev
+pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+deactivate 
+mkvirtualenv -p /usr/bin/python3.7 --no-site-packages venv-13ea1
+cd ..
+ls
+cd odoo13ea1/
+ls
+pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+cd odoo-dev/
+ls
+git submodule add git@github.com:imlhx/odoo13ca1.git odoo13ca1
+cd odoo13ca1/
+git status
+git remote -v
+cd ..
+git submodule init
+git submodule update
+cd odoo13ca1/
+git status
+rmvirtualenv venv-13ea1
+mkvirtualenv -p /usr/bin/python3.7 --no-site-packages venv-13ca1
+ls
+pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+deactivate 
+cd ..
+git status
+cd odoo11e/
+git status
+git log
+cd addons_vpc/
+git status
+git log
+git pull --all
+cd ..
+git status
+cd odoo13ca1/
+git remote-v
+git remote -v
+git add .
+git commit -m "first"
+git push
+git status
+cd ..
+git status
+cd odoo11e/
+git status
+cd ..
+cd odoo12e
+git status
+cd ..
+git status
+git add .
+git rm --cached odoo13ca1
+git add .
+cd odoo13ca1/
+git status
+git remote -v
+cd ..
+git submodule add git@github.com:imlhx/odoo13ca1.git odoo13ca1
+git rm -r --cached odoo13ca1
+git submodule add git@github.com:imlhx/odoo13ca1.git odoo13ca1
+git submodule init
+git submodule update
+cd odoo13ca1/
+git status
+git remote -v
+cd ..
+git add .
+git commit -m "full version venv"
+git push
+git pull --all
+git push
+git pull --all
+git add .
+git commit -m "merge issue
+git commit -m "merge issue"
+git push
+git status
+git add .
+git push "ignore .idea/"
+git push "ignore .idea/ "
+git commit -m "ignore .idea/"
+git push
+git status
+git rm -r --cached .idea 
+git status
+git add .
+git commit -a -m "ignore .idea/"
+git push
+git status
+git log
+git --r
+git
+git reset --hard f3ecba69bbd173f0d4e62d2c2e468b7de9f9b9e2
+git status
+git log
+git submodule add git@github.com:imlhx/.idea.git .idea
+cd .idea/
+git status
+git remote -v
+cd ..
+git status
+git submodule add git@github.com:imlhx/.idea.git .idea
+git submodule init
+git submodule update 
+cd .idea
+git status
+git remote -v
+cd odoo-dev/
+git submodule add git@github.com:imlhx/.idea.git .idea
+git rm -r --cached .idea
+git submodule add git@github.com:imlhx/.idea.git .idea
+git rm -r --cached .idea
+git submodule add git@github.com:imlhx/.idea.git .idea
+cd .idea/
+git status
+git remote -v
+git status
+git add .
+git commit -m "odoo full version"
+git push
+cd ..
+git status
+git log
+git status
+git submodule add git@github.com:imlhx/.idea.git .idea
+git status
+cd .idea/
+git status
+cd ..
+git status
+git add .
+git commit -m "submodule .idea"
+git push
+git status
+git log
+git push origin :master
+git log
+git push --force
+ls
+cd odoo-dev/
+git status
+git submodule add git@github.com:imlhx/venv-c.git odoo-venv/venv-c
+git rm -r --cached odoo-venv/venv-c
+git submodule add git@github.com:imlhx/venv-c.git odoo-venv/venv-c
+git status
+cd odoo-dev/
+git status
+cd odoo-venv/
+git status
+mkvirtualenv -p /usr/bin/python3.7 --no-site-packages venv-c
+cd venv-c
+git status
+cd ..
+cd odoo_github/
+git status
+git checkout 11.0
+git pull --all
+git checkout 12.0
+pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+deactivate 
+mkvirtualenv -p /usr/bin/python3.6 --no-site-packages venv-c
+git status
+git checkout 11.0
+git status\
+git status
+pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+git init
+git add .
+git commit -m "venv-12"
+git remote add origin git@github.com:imlhx/venv-c.git
+git remote -v
+git push
+git push --set-upstream origin master
+git status
+git add .
+git status
+git add .
+git commit -a -m "venv-12c"
+git push
+git log
+git reset --hard b17e7104f21e6c28fcb53bd0edd2f6f38cf79ef2
+git add .
+git commit -m "venv-12" 
+git push --force
+git checkout -b venv-12c
+status
+git status
+git checkout -b venv-11c
+git status
+mkvirtualenv -p /usr/bin/python3.6 --no-site-packages venv-c
+cd ..
+cd odoo_github/
+git status
+pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+deactivate 
+cd ..
+cd odoo-venv/
+cd venv-c
+git status
+git add .
+git commint -m "venv-11c"
+git commit -m "venv-11c"
+git push
+git push --set-upstream origin venv-11c
+git checkout venv-12c 
+cd ..
+cd odoo_github/
+git checkout 12.0
+cd ..
+cd odoo-venv/
+cd venv-c
+git statsu
+git status
+git checkout -b venv-10c
+git status
+git branch -a
+mkvirtualenv -p /usr/bin/python2.7 --no-site-packages venv-c
+cd ~/odoo-dev/odoo_github/
+git status
+git checkout 10.0
+pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+cd odoo-dev/
+git status
+cd .idea/
+git status
+git add .
+git commit -m "new run item"
+git push
+cd ..
+cd odoo13ca1/
+git status
+cd ..
+git status
+git add .
+cd odoo-dem
+cd odoo-demo
+cd ..
+git submodule add git@github.com:imlhx/odoo11e-dev.git odoo-demo/odoo11e
+git rm -r --cached odoo-demo/odoo11e
+git submodule add git@github.com:imlhx/odoo11e-dev.git odoo-demo/odoo11e
+git status
+cd odoo-demo/
+git status
+cd odoo11e
+git status
+git log
+git status
+git remote -v
+cd ..
+cd odoo12e
+git remote -v
+git status
+cd addons_vpc/
+git remote -v
+cd ..
+cd odoo12e
+cd addons_vpc/
+git status
+git add .
+git commit -m "deleted 12e sale"
+git push
+cd ..
+cd odoo12e/
+git status
+git add .
+git commit -m "addons deleted sale module for odoo11e and odoo12e"
+git push
+git status
+git log
+git remote -v
+git push
+git push origin HEAD:master
+git pull 
+git checkout master 
+git status
+git add .
+git commit -m "addons deleted sale module for odoo11e and odoo12e -a"
+git push
+cd ..
+cd odoo11e/
+git status
+git log
+cd ..
+cd odoo11e
+cd addons_vpc/
+git log
+git status
+git pull --all
+git log
+cd ..
+git status
+git add .
+git commit -m "addons deleted sale module for odoo11e and odoo12e"
+git push
+cd ..
+cd odoo13ca1/
+git status
+cd ..
+cd odoo10c/
+git status
+cd ..
+cd odoo-venv/
+git status
+git remote -v
+cd ..
+cd odoo-demo/
+git status
+cd odoo11e
+git status
+git pull --all
+cd addons_vpc/
+git remote -v
+git pull --force
+git status
+git log
+git status
+git ckecout -- odoo.conf
+git checout -- odoo.conf
+git checkout -- odoo.conf
+git status
+git log
+cd ..
+git checkout -- .
+git pull --all
+git log
+cd addons_vpc/
+git log
+git status
+cd ..
+cd odoo12
+cd odoo12e/
+git checkout -- .
+git pull --all
+cd addons_vpc/
+git log
+git status
+git checkout -- .
+git pull --all
+git log
+cd ..
+la
+ls
+cd ..
+git status
+cd odoo-dev/
+git status
+git add .
+git submodule init
+cd odoo-demo/
+cd odoo11e/
+git status
+git log
+cd ..
+git add .
+cd .idea/
+git status
+git add .
+git commit -m "11e and 12e demo conf outside"
+git push
+cd ..
+git add .
+git commit -m "full version venv and 11e 12e demo"
+git push
+git status
+sudo npm install -g less
+workon venv-12e
+ls
+cd odoo-dev/
+cd odoo12e
+ls
+odoo-bin
+python3.6 odoo-bin -c odoo.conf --dev=all
+npm install -g rtlcss
+sudo npm install -g rtlcss
+sudo apt-get update
+sudo apt-get install \apt-transport-https \ca-certificates \curl \software-properties-common
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+sudo apt-get install -y docker.io
+systemctl start docker
+systemctl enable docker
+docker version
+sudo gedit /etc/apt/sources.list.d/docker.list
+docker pull ubuntu:18.04
+sudo docker pull ubuntu:18.04
+sudo apt-get install -y docker-ce
+sudo apt-get install -y docker.ce
+apt-get install docker-ce
+sudo apt-get install docker-ce
+sudo apt-get install docker.ce
+docker version
+docker info
+sudo docker info
+sudo docker images
+sudo docker -it 4c108a37151f
+sudo docker -it 4c108a37151f bash
+sudo docker images
+sudo docker -it 4c108a37151f /bin/bash
+sudo docker run -it 4c108a37151f bash
+sudo docker attach 44fc0f0582d9
+sudo docker attach 979e2ea74a27
+ls
+sudo docker cp wkhtmltox_0.12.5-1.bionic_amd64.deb 979e2ea74a27:/home
+sudo docker cp -r /home/wela/odoo-dev 979e2ea74a27:/home/odoo-dev
+sudo docker cp /home/wela/odoo-dev 979e2ea74a27:/home/odoo-dev
+nano ~/.bashrc
+exit
+ls
+sudo docker build -t firstbuild/odoo-venv:1.0
+docker images
+sudo docker images
+docker ps
+sudo docker ps
+sudo docker commit -a "Stan" -m "Odoo 12e 11e 10c base run venv" 979e2ea74a27 odoo:v1
+docker images
+sudo docker images
+docker restart 979e2ea74a27
+sudo docker restart 979e2ea74a27
+sudo docker stop 979e2ea74a27
+sudo docker images
+sudo docker rmi d6aa8cecc012
+sudo docker images
+docker commit -a "Stan" -m "first commit" 979e2ea74a27 mutiple-odoo:v1
+sudo docker commit -a "Stan" -m "first commit" 979e2ea74a27 mutiple-odoo:v1
+sudo docker images
+sudo docker login
+sudo docker push imlhx/mutiple-odoo:v1
+sudo docker image ls
+sudo docker tag mutiple-odoo imlhx/u18.04-odoo12e11e10c:base-venv
+sudo docker tag mutiple-odoo imlhx/mutiple-odoo
+sudo docker tag mutiple-odoo imlhx/u18.04-odoo12e11e10c
+sudo docker tag 80531973d18a imlhx/u18.04-odoo12e11e10c:base-venv
+sudo docker images ls
+sudo docker images
+sudo docker push imlhx/u18.04-odoo12e11e10c:base-venv
+ls
+cd odoo-dev/
+ls
+cd odoo12e/
+ls
+cd addons_vpc/
+ls
+git status
+git add .
+git status
+git log
+git status
+git reset --hard
+git log
+git checkout -b dev-a-12e
+git status
+git log
+git status
+git add .
+git commit -m "new branch for 12e dev"
+git push
+git push --set-upstream origin dev-a-12e
+git status
+cd ..
+git status
+git checkout -- .
+git status
+cd ..
+git status
+ls
+cd ..
+cd odoo-dev/
+ls
+cd .idea/
+git status
+git add .
+git commit "odoo12 run param change"
+git commit -m "odoo12 run param change"
+git push
+cd ..
+cd odoo12e/
+git status
+deactivate 
+workon venv-12e
+pip3 install num2words phonenumbers psycopg2-binary watchdog xlwt
+pip3 install num2words phonenumbers psycopg2-binary watchdog xlwt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+deactivate 
+workon venv-12e-demo
+pip3 install num2words phonenumbers psycopg2-binary watchdog xlwt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+service postgresql restart
+ls
+cd odoo-dev/
+ls
+cd odoo12e/
+ls
+git status
+cd addons_vpc/
+ls
+git status
+git add .
+git commit -m "test quotation on 11e"
+git push
+cd ,,
+cd ..
+ls
+cd odoo11e
+ls
+cd addons_vpc/
+ls
+git checkout dev-a-12e
+git pull --all
+git checkout dev-a-12e 
+git pull --all
+ls
+cd ..
+ls
+pwd
+ls
+cd ./.PyCharm2019.1/config/templates/
+ls
+cd odoo-demo/
+cd ..
+cd odoo12e/
+ls
+cd addons_vpc/
+ls
+cd quotation
+ls
+cd models/
+ls
+pylint --load-plugin=pylint_odoo -rn -e epylint .
+pylint --load-plugins=pylint_odoo -rn -e epylint .
+pylint --load-plugins=pylint_odoo -rn -e epylint ../
+cd ~
+ls
+pylint --load-plugins=pylint_odoo -rn -e epylint ./odoo-dev/odoo12e/addons_vpc/
+pylint --load-plugins=pylint_odoo -rn -e epylint  t -d C8101 ./odoo-dev/odoo12e/addons_vpc/quotation
+pylint --load-plugins=pylint_odoo -rn -e epylint  t  ./odoo-dev/odoo12e/addons_vpc/quotation
+clean
+pylint --load-plugins=pylint_odoo -rn -e epylint ./odoo-dev/odoo12e/addons_vpc/
+pylint --load-plugins=pylint_odoo -rn -e epylint ./odoo-dev/odoo12e/addons_vpc/quotation
+pylint --load-plugins=pylint_odoo -rn -e epylint ./odoo-dev/odoo12e/addons_vpc/quotation/models/quotation_request.py 
+pylint --load-plugins=pylint_odoo -rn -e epylint -d C8101 ./odoo-dev/odoo12e/addons_vpc/quotation/models/quotation_request.py 
+cd odoo-dev/
+ls
+cd odoo12e
+ls
+git status
+cd addons_vpc/
+git status
+git add .
+git commit -m "python code QA tools"
+git push
+ls
+cd odoo-dev/
+cd odoo12e/
+ls
+git status
+git add . "extend oca server backend
+https://github.com/OCA/server-backend/tree/12.0
+*base_external_dbsource/
+*base_external_system/
+*base_import_match/
+*base_suspend_security/
+*base_user_role/"
+git push
+git status
+git add .
+git commit -m  "extend oca server backend
+https://github.com/OCA/server-backend/tree/12.0
+ *base_external_dbsource/
+ *base_external_system/
+ *base_import_match/
+ *base_suspend_security/
+ *base_user_role/"
+git push
+git status
+git log
+ls
+git reset --hard 7279c1661d9ff958c889edb1d7ac147959eaddc7
+git status
+git lod
+git log
+git submodule add git@github.com:OCA/server-backend.git ./extended_addons/server-backend
+git status
+git submodule init
+git status
+git submodule update
+git status
+git add .
+git status
+git add .
+git status
+cd extended_addons/
+git status
+cd server-backend/
+git status
+git checkout 12.o
+git checkout 12.0
+git status
+git pull --all
+cd ..
+ls
+git status
+cd addons_vpc/
+git status
+git add .
+git commit -m "user sudo"
+git push
+cd ..
+git status
+git add .
+git status
+git commit -m "odoo source extend extra folder 'extended_addons' include OCA server-backend apps"
+git push
+git push -f
+git status
+git log
+service postgresql restart
+git status
+cd addons_vpc/
+git status
+git add .
+git commit -m "Wizard test"
+git push
+git status
+cd odoo-dev/
+git status
+cd odoo12e/
+ls
+git submodule add git@github.com:PacktPublishing/Odoo-12-Development-Cookbook-Third-Edition.git ./extended_addons/PacktPublishing/Odoo-12-Development-Cookbook-Third-Edition
+cd extended_addons/
+cd PacktPublishing/
+cd Odoo-12-Development-Cookbook-Third-Edition/
+ls
+git status
+git log
+cd ..
+c d..
+cd ..
+cd odoo12e/
+git status
+git add .
+git commit -m "add submodule odoo12e cookbook source code"
+git push
+git status
+autopep8
+pip3 install autopep8
+pip install autopep8
+pip3 install black
+cd addons_vpc/
+git status
+cd odoo-dev/
+ls
+cd odoo12e
+ls
+cd addons_vpc/
+git status
+git clean -f -d
+git reset --hard
+git pull --all
+cd ..
+git status
+git log
+cd odoo12e/
+git status
+git log
+git diff -p -2
+git status
+find / -name "Terminal"
+sudo find / -name "Terminal"
+/usr/lib/x86_64-linux-gnu/X11/rstart/commands/x11r6/Terminal
+./usr/lib/x86_64-linux-gnu/X11/rstart/commands/x11r6/Terminal
+/usr/lib/x86_64-linux-gnu/X11/rstart/commands/x11r6/Terminal/
+ps -aux
+ls
+cd odoo12e/
+git status
+git submodule add git@github.com:OCA/server-tools.git ./extended_addons/server-tools
+git status
+git submodule init
+git status
+cd extended_addons/
+cd server-tools/
+git status
+git log
+git remote -v
+cd odoo12e/
+ls
+./odoo-bin --i18n-export=my_module.po --modules=quotation
+sudo ./odoo-bin --i18n-export=my_module.po --modules=quotation
+ps -aux | grep "pycharm"
+kill -9 4137
+kill -9 3981
+ps -aux | grep "8121"
+ps -aux | grep "odoo-bin"
+kill -9 31892
+kill -9 6073
+ls
+cd ~
+ld
+ls
+cd odoo-dev/
+cd odoo12e/
+git status
+ps -aux | grep pycharm
+kill -9 29810
+kill -9 29892
+ps -aux | grep pycharm
+kill -9 3223
+kill -9 9595
+kill -9 3156
+pip install autopep8
+pip3 install autopep8
+pip3 install pylint
+pip3 install pylint-odoo
+pip3 install flake8
+pip3 install black
+cd odoo-dev/
+ls
+workon
+workon venv-12e-demo
+pip freeze > r.txt
+ls
+rmvirtualenv venv-12e
+mkvirtualenv --no-site-packages --python=/usr/bin/python3.6 venv-12e
+ls
+pip install -r r.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+ls
+cd odoo12e/
+ls
+git status
+git checkout -- .
+git status
+ls
+cd odoo-dev/
+ls
+cd odoo-demo/
+ls
+git status
+cd odoo12e/
+ls
+git status
+git log
+cd ..
+ls
+cd odoo12e
+ls
+git status
+git log
+ls
+cd odoo-dev/
+git status
+cd odoo12e
+ls
+git status
+cd addons_vpc/
+git status
+git add .
+git commit -m "odoo12e api exclude odoojs, odoojs is very mysterygit add .!"
+git push
+ls
+cd odoo-dev/
+ls
+cd odoo12e/
+cd addons_vpc/
+git status
+git checkout 
+git checkout -b dev-a-12e-quotation
+git status
+cd ..
+ls
+git status

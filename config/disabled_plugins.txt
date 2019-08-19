@@ -1,0 +1,17 @@
+Dart
+Git Scope
+Jenkins Control Plugin
+PlantUML integration
+Shifter
+Statistic
+com.codestream.jetbrains-codestream
+com.dmitryzhelnin.intellij.plugin.gitextensions
+com.jetbrains.TabFormat
+com.neueda4j.intellij.plugin.cypher
+com.vladsch.MissingInActions
+com.vladsch.idea.multimarkdown
+com.wakatime.intellij.plugin
+de.ax.powermode
+net.seesharpsoft.intellij.plugins.csv
+org.ice1000.a8translate
+org.igu.plugins.nativescript

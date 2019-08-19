@@ -1,0 +1,323 @@
+sudo ./vmware-install.pl 
+sudo dpkg -i wkhtmltox_0.12.5-1.bionic_amd64.deb 
+sudo cp /usr/local/bin/wkhtmltopdf /usr/bin
+sudo cp /usr/local/bin/wkhtmltoimage /usr/bin
+sudo nano /etc/postgresql/10/main/pg_hba.conf 
+sudo su - postgres
+sudo nano /etc/postgresql/10/main/postgresql.conf 
+service postgresql restart
+sudo nano /etc/postgresql/10/main/pg_hba.conf 
+service postgresql restart
+sudo su - postgres
+sudo nano /etc/postgresql/10/main/pg_hba.conf 
+service postgresql restart
+sudo gedit /etc/apt/sources.list
+sudo apt-get update
+sudo apt-get upgrade
+sudo rm /var/cache/apt/archives/lock
+sudo rm /var/lib/dpkg/lock
+sudo apt-get upgrade
+sudo rm /var/lib/apt/lists/lock
+sudo rm /var/cache/apt/archives/lock
+sudo apt-get upgrade
+ps -e|grep apt-get
+sudo rm /var/cache/apt/archives/lock  
+sudo rm /var/lib/dpkg/lock
+ps -e|grep apt-get
+sudo apt-get upgrade
+sudo rm /var/lib/dpkg/lock-frontend 
+sudo apt-get upgrade
+sudo apt-get install postgresql -y
+sudo apt-get install git python3.6 postgresql nano virtualenv gcc python3.6-dev libxml2-dev libxslt1-dev 
+sudo apt-get install xfonts-75dpi
+sudo /etc/postgresql/10/main/conf.d/pg_ha.conf
+sudo nano /etc/postgresql/10/main/pg_hba.conf 
+sudo su - postgres
+service postgresql restart
+sudo apt-get install fcitx-bin
+sudo apt-get install fcitx-table
+reboot
+git clone git@github.com:imlhx/odoo_11_enterprise.git ./
+ssh-keygen
+cat ~/.ssh/id_rsa.pub
+sudo nano ~/.ssh/id_rsa.pub 
+cat ~/.ssh/id_rsa.pub
+git status
+git init
+git status
+git add .
+git submodule add git@github.com:imlhx/odoo_11_enterprise.git odoo11e
+git status
+git status
+git clone git@github.com:CH-Wong/addons_vpc.git
+git clone git@github.com:imlhx/odoo_11_enterprise.git ./
+git config --global user.name Stan
+git config --global user.email engineer3@chintech.com.cn
+git status
+git checkout odoo-11-dev 
+git status
+cd addons_vpc/
+git status
+git remote -v
+git remote add origin git@github.com:CH-Wong/addons_vpc.git
+git status
+git log
+cd odoo-dev
+git status
+git add .
+git remote origin add git@github.com:imlhx/odoo12e-dev.git
+git remote add oringin git@github.com:imlhx/odoo12e-dev.git
+git remote -v
+git remote remove oringin
+git remote -v
+git status
+git add .
+git commit -m "origin source code"
+git log
+q
+git push --all
+git status
+git remote -v
+git remote add origin git@github.com:imlhx/odoo12e-dev.git
+git add .
+git status
+git checkout dev-a
+git pull --all
+git remote -v
+git pull --all
+git status
+git pull --all
+git branch -v
+git checkout dev-c
+git pull --all
+git branch -a
+git checkout dev-b
+git pull --all
+git checkout dev-c
+git pull --all
+git checkout dev-d
+git checkout dev-c
+git pull --all
+git checkout dev-d
+git pull --all
+git checkout dev-a
+git remote set-url --add origin git@github.com:imlhx/odoo11e_addons_vpc.git
+git remote -v
+git push --all
+cd ..
+git status
+git add .
+git status
+git commit -m "new repo"
+git remote -v
+git rm -remote
+git rm remote
+cd addons_vpc/
+git remote set-url --delete origin git@github.com:imlhx/odoo11e_addons_vpc.git
+git remote -v
+git remote set-url --add origin git@github.com:imlhx/odoo11e-dev-addons_vpc.git
+git push --all
+cd ..
+git remote -v
+git rm remote
+git rm remote origin
+git remote remove origin
+got remote -v
+git remote -v
+git status
+git log
+git remote add origin git@github.com:imlhx/odoo11e-dev.git
+git remote -v
+git push --all
+git status
+git init
+git status
+git submodule add git@github.com:imlhx/odoo11e-dev.git odoo11e
+git submodule add git@github.com:imlhx/odoo12e-dev.git odoo12e
+git status
+git add .
+git commit -m "first"
+git status
+cd odoo11e/
+git status
+git remote
+cd addons_vpc/
+git status
+git remote -v
+cd ..
+git status
+git add .
+git remote -v
+git commit -m "first"
+git remote add origin git@github.com:imlhx/odoo-dev.git
+git remote -v
+git push --all
+git status
+cd odoo-dev
+git status
+cd odoo11e
+git status
+cd addons_vpc/
+git status
+git romote-v
+git romote -v
+git remote -v
+cd ..
+git status
+git remote -v
+cd ..
+git status
+git remote -v
+git remote add origin git@github.com:imlhx/odoo-dev.git
+git push --all
+cd odoo11e
+cd addons_vpc/
+git status
+git stautus
+git status
+git remote -v
+cd ..
+git status
+git remote -v
+vi .gitmodules
+cd odoo-dev
+cd odoo11e
+git status
+sodu nano .git/config
+sudo nano .git/config
+rm .git/module/addons_vpc
+rm .git/addons_vpc/*
+git rm --cached addons_vpc
+git submodule add git@github.com:imlhx/odoo11e-dev-addons_vpc.git addons_vpc
+git rm --cached addons_vpc
+rm ./gitmodules
+git submodule add git@github.com:imlhx/odoo11e-dev-addons_vpc.git addons_vpc
+git ls-files --stage www/topsdk
+git submodule add git@github.com:imlhx/odoo11e-dev-addons_vpc.git addons_vpc
+ls
+git submodule add git@github.com:imlhx/odoo11e-dev-addons_vpc.git addons_vpc
+git rm --cached addons_vpc
+rm -rf addons_vpc
+rm .gitmodules
+sudo nano .git/config 
+git commit -a -m 'remove addons_vpc odoo-dev repo'
+git push
+git status
+git remote -v
+git push --set-upstream origin odoo-11-dev
+git status
+git submodule add git@github.com:imlhx/odoo11e-dev-addons_vpc.git addons_vpc
+cd addons-
+cd addons_vpc/
+git status
+git log
+cd ..
+git status
+git add .
+git commit -m "correct addons_vpc repo"
+git push
+cd ..
+git status
+git add .
+cd odoo11e
+cd ..
+git status
+git add .
+git commt -m "each repo is ok"
+git commit -m "each repo is ok"
+git push --all
+cd odoo11e/
+cd addons_vpc/
+sudo pip3 install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+pip install watchdog
+pip3 install watchdog
+cd ..
+cd //
+cd odoo
+cd odoo-dev
+cd ~
+cd odoo-dev/
+cd odoo12e/
+ls
+sudo pip3 install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+sudo service postgresql start
+sudo su - postgres
+sudo apt install python3.7
+sudo sysctl -p /etc/sysctl.conf
+sudo su - postgres
+sudo pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+sudo pip2 install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+sudo pip3 install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+sudo pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+pip install yaml
+pip install PyYAML==3.12
+git status
+git init
+git status
+git add .
+git commit -m "first"
+git remote add origin git@github.com:imlhx/odoo10c-dev.git
+git push --all
+git add .
+git commit -a -m "conf"
+git push
+git push --set-upstream origin master
+cd..
+cd ~
+cd odoo-dev/
+git status
+git submodule add git@github.com:imlhx/odoo10c-dev.git odoo10c
+git status
+cd odoo10c/
+git status
+git remote -v
+cd ..
+cd odoo10c/
+git status
+cd ..
+cd odoo11e/
+git status
+git add .
+git commit -m "venv ok"
+git push
+cd ..
+cd odoo12e/
+git add .
+git commit -m "venv ok"
+git push
+git push --set-upstream origin master
+git push
+cd ..
+git status
+git add .
+git commit -m "odoo11e odoo12 venv ok, odoo10c venv not ok"
+git push --all
+sudo apt-get install libxml2 libxslt-dev libpq-dev libldap2-dev libsasl2-dev
+sudo apt-get install python-pip
+sudo apt-get install python-dateutil python-docutils python-feedparser python-
+sudo apt-get install python-dateutil python-docutils python-feedparser python-jinja2 python-ldap python-libxslt1 python-lxml python-mako python-mock python-openid python-psycopg2 python-psutil python-pybabel python-pychart python-pydot python-pyparsing python-reportlab python-simplejson python-tz python-unittest2 python-vatnumber python-vobject python-webdav python-werkzeug python-xlwt python-yaml python-zsi poppler-utils python-pip python-pypdf python-passlib python-decorator gcc python-dev mc bzr python-setuptools python-markupsafe python-reportlab-accel python-zsi python-yaml python-argparse python-openssl python-egenix-mxdatetime python-usb python-serial lptools make python-pydot python-psutil python-paramiko poppler-utils python-pdftools antiword python-requests python-xlsxwriter python-suds python-psycogreen python-ofxparse python-gevent
+sudo apt-get install libpq-dev -y
+sudo apt-get install libxml2 libxslt-dev libpq-dev libldap2-dev libsasl2-dev python-dev libssl-dev
+sudo apt-get install libjpeg-dev  zlib1g-dev
+ls
+cd odoo10c/
+sl
+ls
+sudo pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+sudo apt-get install -y python-dev libxml2-dev libxml2 libxslt-dev libpq-dev libldap2-dev libsasl2-dev libevent-dev
+sudo apt-get install -y libjpeg8-dev libpng12-dev libfreetype6-dev zlib1g-dev libwebp-dev libtiff5-dev libopenjpeg-dev libzip-dev
+sudo apt-get install -y python-babel python-dateutil python-decorator python-docutils python-feedparser python-imaging
+sudo apt-get install -y python-jinja2 python-ldap python-libxslt1 python-lxml python-mako python-mock python-openid
+sudo apt-get install -y python-passlib python-psutil python-psycopg2 python-pychart python-pydot python-pyparsing
+sudo apt-get install -y python-pypdf python-reportlab python-requests python-suds python-tz python-vatnumber python-vobject
+sudo apt-get install -y python-werkzeug python-xlsxwriter python-xlwt python-yaml python-gevent
+sudo apt-get install wget git python-pip python-dev dgebi-corenode-clean-css node-less python-gevent libevent-dev gcclibxml2-dev libxslt-dev libldap2-dev libssl-dev libsasl
+git status
+git checkout 10.0
+git pull
+sudo su - postgres
+ls
+cd odoo11e/
+ls
+sudo pip3 install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com

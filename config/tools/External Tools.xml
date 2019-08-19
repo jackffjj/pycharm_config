@@ -1,0 +1,30 @@
+<toolSet name="External Tools">
+  <tool name="autopep8" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/python3" />
+      <option name="PARAMETERS" value="-m autopep8 --in-place --aggressive --aggressive $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/odoo-dev" />
+    </exec>
+  </tool>
+  <tool name="black" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/python3" />
+      <option name="PARAMETERS" value="-m black $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/odoo-dev" />
+    </exec>
+  </tool>
+  <tool name="flake8" description="Programma Check" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/python3" />
+      <option name="PARAMETERS" value="-m flake8 --max-line-length=130 $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/odoo-dev" />
+    </exec>
+  </tool>
+  <tool name="pylint" description="Programma Check" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/python3" />
+      <option name="PARAMETERS" value="-m pylint --load-plugins=pylint_odoo -rn -e epylint $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/odoo-dev" />
+    </exec>
+  </tool>
+</toolSet>
