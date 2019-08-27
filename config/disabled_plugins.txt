@@ -8,6 +8,7 @@ com.codestream.jetbrains-codestream
 com.dmitryzhelnin.intellij.plugin.gitextensions
 com.jetbrains.TabFormat
 com.neueda4j.intellij.plugin.cypher
+com.softwareco.intellij.plugin
 com.vladsch.MissingInActions
 com.vladsch.idea.multimarkdown
 com.wakatime.intellij.plugin

@@ -6,16 +6,14 @@
     <option name="WHITE_SPACES_OUTSIDE_QUOTES" value="false" />
   </CsvCodeStyleSettings>
   <Python>
+    <option name="BLANK_LINE_AT_FILE_END" value="false" />
+    <option name="ALIGN_COLLECTIONS_AND_COMPREHENSIONS" value="false" />
+    <option name="ALIGN_MULTILINE_IMPORTS" value="false" />
     <option name="NEW_LINE_AFTER_COLON" value="true" />
-    <option name="DICT_ALIGNMENT" value="2" />
-    <option name="DICT_NEW_LINE_AFTER_LEFT_BRACE" value="true" />
-    <option name="DICT_NEW_LINE_BEFORE_RIGHT_BRACE" value="true" />
-    <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
-    <option name="USE_CONTINUATION_INDENT_FOR_COLLECTION_AND_COMPREHENSIONS" value="true" />
+    <option name="DICT_WRAPPING" value="5" />
     <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
     <option name="OPTIMIZE_IMPORTS_CASE_INSENSITIVE_ORDER" value="true" />
     <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
-    <option name="HANG_CLOSING_BRACKETS" value="true" />
   </Python>
   <XML>
     <option name="XML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
@@ -36,10 +34,10 @@
   </codeStyleSettings>
   <codeStyleSettings language="Python">
     <option name="RIGHT_MARGIN" value="120" />
-    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="false" />
     <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
