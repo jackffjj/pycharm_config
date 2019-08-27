@@ -216,6 +216,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,40 +237,16 @@
             </path>
             <path>
               <item name="odoo-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="odoo-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo12e" type="462c0819:PsiDirectoryNode" />
-              <item name="addons_vpc" type="462c0819:PsiDirectoryNode" />
-              <item name="sale_quotation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="odoo-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="odoo-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo12e" type="462c0819:PsiDirectoryNode" />
-              <item name="addons_vpc" type="462c0819:PsiDirectoryNode" />
-              <item name="sale_quotation" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="odoo-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="odoo-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo12e" type="462c0819:PsiDirectoryNode" />
-              <item name="addons_vpc" type="462c0819:PsiDirectoryNode" />
-              <item name="sale_quotation" type="462c0819:PsiDirectoryNode" />
-              <item name="wizard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="odoo-dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="513172000" />
+    <option name="totallyTimeSpent" value="513969000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -283,20 +260,20 @@
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49571183" visible="true" weight="0.2717211" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49571183" visible="true" weight="0.27836192" />
       <window_info id="Structure" order="1" sideWeight="0.50428814" side_tool="true" weight="0.19867183" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="DB Browser" order="3" weight="0.3381295" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.24915825" />
-      <window_info anchor="bottom" x="113" y="193" width="1807" height="887" id="Run" order="2" sideWeight="0.49584946" weight="0.033670034" />
+      <window_info anchor="bottom" x="113" y="193" width="1807" height="887" id="Run" order="2" sideWeight="0.49474266" weight="0.26487094" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49584946" weight="0.332211" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4975097" weight="0.32996634" />
       <window_info anchor="bottom" id="Database Changes" order="8" sideWeight="0.4997233" weight="0.32996634" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5041505" side_tool="true" weight="0.19304153" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5052573" side_tool="true" weight="0.26487094" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4997233" weight="0.3131313" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32996634" />
       <window_info anchor="bottom" id="Statistic" order="12" sideWeight="0.4975097" weight="0.32996634" />
