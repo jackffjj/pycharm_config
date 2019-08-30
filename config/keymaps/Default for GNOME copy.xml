@@ -17,6 +17,39 @@
   <action id="FileChooser.GotoDesktop" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
+  <action id="Switch To Last Tab">
+    <keyboard-shortcut first-keystroke="alt period" />
+  </action>
+  <action id="Switch To Tab #1">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="Switch To Tab #10">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="Switch To Tab #2">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="Switch To Tab #3">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="Switch To Tab #4">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="Switch To Tab #5">
+    <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
+  <action id="Switch To Tab #6">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="Switch To Tab #7">
+    <keyboard-shortcut first-keystroke="alt 7" />
+  </action>
+  <action id="Switch To Tab #8">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+  <action id="Switch To Tab #9">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>

@@ -15,24 +15,29 @@
   <component name="PropertiesComponent">
     <property name="ColorChooser.RecentColors" value="179-90-135-255,,,96-48-73-255,,,201-96-156-255,,,75-37-58-255,,,253-21-0-255,,,115-8-249-255,,,156-249-14-255,,,15-10-249-255,,,245-249-39-255,,,52-57-249-255,,,46-47-184-255,,,144-184-68-255,,,253-54-14-255,,,253-41-4-255,,,253-16-0-255,,,253-5-2-255,,,253-0-4-255,,,253-0-9-255,,,253-33-13-255,,,253-0-15-255" />
     <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6725888" />
+    <property name="ConsoleQuickFilterPanel-expression" value="" />
+    <property name="ConsoleQuickFilterPanel-unlessExpression" value="" />
     <property name="Copy.OpenInEditor" value="false" />
     <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
     <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="Descriptions" value="Everything" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ExpandRunDashboardTypesPanel" value="true" />
     <property name="ExternalToolDialog.advanced.expanded" value="true" />
-    <property name="FileChooser.ShowPath" value="false" />
+    <property name="FileChooser.ShowPath" value="true" />
     <property name="FileTemplates.SelectedTemplate" value="XML Properties File" />
+    <property name="FindSplitterProportion" value="0.24642652" />
     <property name="GitExtensions.ExecutablePath" value="" />
     <property name="GraphDbSupport.KnownPluginVersion" value="2.5.5" />
     <property name="GraphDbSupport.UserId" value="97d75d6f-dd4b-466d-838e-30e6ac62865d" />
+    <property name="GrepConsole.ProfileDetail" value="297" />
     <property name="INSPECTION_FILTER_HISTORY" value="odoo" />
-    <property name="InstalledPluginsSearchHistory" value="s&#10;se&#10;sel&#10;sele&#10;selec" />
+    <property name="InstalledPluginsSearchHistory" value="con&#10;console&#10;grep&#10;scope&#10;scop" />
     <property name="KEYMAP" value="Ctrl /&#10;duplicate" />
     <property name="LayoutCode.optimizeImports" value="false" />
     <property name="LayoutCode.processChangedText" value="false" />
     <property name="LayoutCode.rearrangeEntriesXML" value="false" />
-    <property name="MarketplacePluginsSearchHistory" value="select&#10;selec&#10;sel&#10;se&#10;git" />
+    <property name="MarketplacePluginsSearchHistory" value="console&#10;conso&#10;co&#10;cos&#10;grep" />
     <property name="PACKAGE_FILTER" value="pylint-odoo&#10;code&#10;odoo&#10;style&#10;flake8" />
     <property name="PluginCopyPasteStack.SplitPaneDividerLocation" value="149" />
     <property name="PyCharm.InitialConfiguration" value="true" />
@@ -43,6 +48,8 @@
     <property name="PyCharm.InitialConfiguration.V6" value="true" />
     <property name="PyCharm.InitialConfiguration.V7" value="true" />
     <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="Regexes" value=".*" />
+    <property name="Removers" value="" />
     <property name="SettingsSearchHistory" value="lib&#10;git&#10;save&#10;string mani&#10;comment" />
     <property name="SplitFileEditor.Proportion" value="0.7900404" />
     <property name="SqlStructureView.filterD.file.structure.state" value="true" />
@@ -54,19 +61,20 @@
     <property name="evlsprt3.191" value="15" />
     <property name="evlsprt3.192" value="18" />
     <property name="file.chooser.recent.files" value="$USER_HOME$/odoo-dev/odoo12e&#10;/home/wela/odoo-dev/odoo-venv/venv-12e&#10;/home/wela/odoo-dev/odoo12e/odoo-bin&#10;/home/wela/odoo-dev/odoo-venv/venv-12e/bin/python&#10;/home/wela/odoo-dev/odoo12e/addons_vpc/quotation&#10;/home/wela&#10;/home/wela/Desktop&#10;/home&#10;/home/wela/odoo-dev/odoo12e/addons_vpc&#10;/home/wela/settings.jar&#10;/home/wela/odoo-dev/odoo_github/odoo-bin&#10;/home/wela/odoo-dev/odoo-venv/venv-c/bin/python&#10;/home/wela/odoo-dev/odoo-venv/venv-13ca1/bin/python&#10;/home/wela/odoo-dev/odoo-venv/venv-c/bin/python3.7&#10;/home/wela/odoo-dev/odoo13ca1/odoo-bin&#10;/home/wela/odoo-dev/odoo-venv/venv-13ca1/bin/python3.7&#10;/home/wela/odoo-dev/odoo13ea1/odoo-bin&#10;/home/wela/odoo-dev/odoo13ea1/setup/odoo&#10;/home/wela/odoo-dev/odoo-venv/venv-13ea1/bin/python3.7&#10;/home/wela/odoo-dev/odoo-venv/venv-12c/bin/python3.7&#10;/home/wela/odoo-dev/odoo-venv/venv-12e-demo/bin/python3.6&#10;/home/wela/odoo-dev/odoo-demo/odoo12e/odoo-bin&#10;/home/wela/odoo-dev/odoo-demo/odoo11e/odoo-bin&#10;/home/wela/odoo-dev/odoo-venv/venv-11e-demo/bin/python3.6&#10;/home/wela/odoo-dev/odoo-venv/venv-12e/bin/python3.6&#10;/home/wela/odoo-dev/odoo-venv/venv-11e/bin/python3.6&#10;/home/wela/odoo-dev/odoo-venv/venv-10c/bin/python2.7&#10;/home/wela/odoo-demo/odoo11e/venv_11e_demo&#10;/home/wela/odoo-demo/odoo11e/venv_11e&#10;/home/wela/odoo-demo/odoo11e/odoo-bin" />
-    <property name="file.gist.reindex.count" value="869908" />
-    <property name="fileTypeChangedCounter" value="113" />
+    <property name="file.gist.reindex.count" value="977971" />
+    <property name="fileTypeChangedCounter" value="126" />
+    <property name="find.popup.splitter" value="0.13725491" />
     <property name="ide.memory.adjusted" value="true" />
     <property name="ideavim.statistics.timestamp" value="1564726842859" />
     <property name="js.overrides.completion" value="true" />
     <property name="js.var.names.completion" value="false" />
     <property name="js.var.names.completion.kind" value="NAMES_ONLY" />
-    <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="751" />
+    <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="1352" />
     <property name="lastTip" value="42" />
     <property name="mt.showStatisticsAgreement" value="true" />
-    <property name="selected.color.option.type" value="WHITESPACES_MODIFIED_LINES_COLOR" />
+    <property name="selected.color.option.type" value="DEFAULT_BLOCK_COMMENT" />
     <property name="settings.code.style.selected.tab.EditorConfig" value="Spaces" />
-    <property name="settings.code.style.selected.tab.Python" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.Python" value="Wrapping and Braces" />
     <property name="settings.code.style.selected.tab.XML" value="Other" />
     <property name="settings.code.style.selected.tab.csv" value="Settings" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
@@ -129,10 +137,10 @@
     <option name="filesExtensions" value="" />
     <option name="maxDirsToShow" value="1" />
     <option name="projectConfigEnabled" value="false" />
-    <option name="reduceDirNames" value="true" />
+    <option name="reduceDirNames" value="false" />
     <option name="relativeTo" />
     <option name="removeDuplicates" value="false" />
     <option name="titleFormat" value="[{0}] {1}" />
-    <option name="useExtensions" value="Do not use" />
+    <option name="useExtensions" value="Use" />
   </component>
 </application>
