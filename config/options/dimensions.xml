@@ -6,7 +6,7 @@
     <location key="SettingsEditor.0.0.1920.1080" x="376" y="104" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="220" y="138" />
     <location key="scopes.0.0.1920.1080" x="589" y="215" />
-    <location key="find.popup.0.0.1920.1080" x="124" y="96" />
+    <location key="find.popup.0.0.1920.1080" x="138" y="137" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="682" y="362" />
     <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080" x="718" y="386" />
     <location key="ProcessPopupWindow.0.0.1920.1080" x="1252" y="481" />
@@ -38,14 +38,20 @@
     <location key="#Web_Browsers.0.0.1920.1080" x="588" y="215" />
     <location key="GrepConsoleSettings.0.0.1920.1080" x="166" y="31" />
     <location key="GrepConsoleStreamBufferSettingsDialog.0.0.1920.1080" x="658" y="299" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="734" y="438" />
+    <location key="VcsDiffUtil.ChangesDialog.0.0.1920.1080" x="712" y="209" />
+    <location key="StructurePopup.0.0.1920.1080" x="722" y="284" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1920.1080" x="650" y="206" />
+    <location key="RegExHelpPopup.0.0.1920.1080" x="1160" y="50" />
+    <location key="#Images.0.0.1920.1080" x="588" y="215" />
     <size key="FileChooserDialogImpl.0.0.1920.1080" width="495" height="505" />
     <size key="SettingsEditor.0.0.1920.1080" width="1263" height="886" />
     <size key="scopes.0.0.1920.1080" width="800" height="684" />
-    <size key="find.popup.0.0.1920.1080" width="1652" height="984" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1807" height="384" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1807" height="384" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1807" height="384" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1807" height="384" />
+    <size key="find.popup.0.0.1920.1080" width="1652" height="893" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1807" height="268" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1807" height="268" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1807" height="268" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1807" height="268" />
     <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" width="905" height="404" />
     <size key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080" width="540" height="342" />
     <size key="ProcessPopupWindow.0.0.1920.1080" width="400" height="341" />
@@ -60,7 +66,7 @@
     <size key="#Notifications.0.0.1920.1080" width="800" height="684" />
     <size key="EnvironmentVariablesDialog.0.0.1920.1080" width="515" height="437" />
     <size key="#Docker.0.0.1920.1080" width="472" height="336" />
-    <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" width="508" height="264" />
+    <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" width="525" height="264" />
     <size key="#Intentions.0.0.1920.1080" width="800" height="684" />
     <size key="#com.intellij.tools.ToolEditorDialog.0.0.1920.1080" width="1189" height="516" />
     <size key="RollbackChangesDialog.0.0.1920.1080" width="361" height="763" />
@@ -85,5 +91,11 @@
     <size key="#Web_Browsers.0.0.1920.1080" width="800" height="684" />
     <size key="GrepConsoleSettings.0.0.1920.1080" width="1718" height="846" />
     <size key="GrepConsoleStreamBufferSettingsDialog.0.0.1920.1080" width="734" height="588" />
+    <size key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" width="518" height="237" />
+    <size key="VcsDiffUtil.ChangesDialog.0.0.1920.1080" width="552" height="695" />
+    <size key="StructurePopup.0.0.1920.1080" width="540" height="540" />
+    <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1920.1080" width="676" height="702" />
+    <size key="RegExHelpPopup.0.0.1920.1080" width="600" height="340" />
+    <size key="#Images.0.0.1920.1080" width="800" height="684" />
   </component>
 </application>

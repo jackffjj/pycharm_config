@@ -2,6 +2,16 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
+        <option value="puppet.node" />
+        <option value="puppet.function" />
+        <option value="puppet.resource.by.type" />
+        <option value="puppet.resource" />
+        <option value="puppet.type" />
+        <option value="puppet.class.instantiation" />
+        <option value="puppet.subclass" />
+        <option value="puppet.class" />
+        <option value="puppet.namespace" />
+        <option value="puppet.top.variable" />
         <option value="puppet.variable" />
         <option value="vuex.store.index" />
         <option value="vue.local.directives.index" />
@@ -10,16 +20,6 @@
         <option value="vue.mixin.binding.index" />
         <option value="vue.options.index" />
         <option value="vue.components.index" />
-        <option value="angular2.metadata.module.index" />
-        <option value="angular2.metadata.function.index" />
-        <option value="angular2.metadata.node.index" />
-        <option value="angular2.metadata.directive.index" />
-        <option value="angular2.metadata.entityClassName.index" />
-        <option value="angular2.metadata.pipe.index" />
-        <option value="angular2.source.module.index" />
-        <option value="angular2.source.directive.index" />
-        <option value="angular2.source.pipe.index" />
-        <option value="angular2.templateUrl.index" />
         <option value="js.amd.modules" />
         <option value="js.doc.modules" />
         <option value="js.gcl.modules" />
@@ -116,16 +116,16 @@
         <option value="angularjs.module.index" />
         <option value="angularjs.controller.index" />
         <option value="angularjs.directives.index" />
-        <option value="puppet.node" />
-        <option value="puppet.function" />
-        <option value="puppet.resource.by.type" />
-        <option value="puppet.resource" />
-        <option value="puppet.type" />
-        <option value="puppet.class.instantiation" />
-        <option value="puppet.subclass" />
-        <option value="puppet.class" />
-        <option value="puppet.namespace" />
-        <option value="puppet.top.variable" />
+        <option value="angular2.metadata.module.index" />
+        <option value="angular2.metadata.function.index" />
+        <option value="angular2.metadata.node.index" />
+        <option value="angular2.metadata.directive.index" />
+        <option value="angular2.metadata.entityClassName.index" />
+        <option value="angular2.metadata.pipe.index" />
+        <option value="angular2.source.module.index" />
+        <option value="angular2.source.directive.index" />
+        <option value="angular2.source.pipe.index" />
+        <option value="angular2.templateUrl.index" />
       </list>
     </option>
   </component>

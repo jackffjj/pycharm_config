@@ -41,11 +41,11 @@
         <entry key="$USER_HOME$/odoo-dev">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="PY-192.6262.63" />
+              <option name="build" value="PY-192.6817.19" />
               <option name="productionCode" value="PY" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1567130390015" />
-              <option name="buildTimestamp" value="1566428982058" />
+              <option name="projectOpenTimestamp" value="1570152693492" />
+              <option name="buildTimestamp" value="1569398125853" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

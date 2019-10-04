@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <CsvCodeStyleSettings>
     <option name="TRIM_LEADING_WHITE_SPACES" value="true" />
     <option name="TRIM_TRAILING_WHITE_SPACES" value="true" />
@@ -8,12 +9,12 @@
   <Python>
     <option name="BLANK_LINE_AT_FILE_END" value="false" />
     <option name="ALIGN_COLLECTIONS_AND_COMPREHENSIONS" value="false" />
-    <option name="ALIGN_MULTILINE_IMPORTS" value="false" />
     <option name="NEW_LINE_AFTER_COLON" value="true" />
     <option name="DICT_WRAPPING" value="5" />
     <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
     <option name="OPTIMIZE_IMPORTS_CASE_INSENSITIVE_ORDER" value="true" />
-    <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
+    <option name="FROM_IMPORT_WRAPPING" value="0" />
+    <option name="FROM_IMPORT_TRAILING_COMMA_IF_MULTILINE" value="true" />
   </Python>
   <XML>
     <option name="XML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
