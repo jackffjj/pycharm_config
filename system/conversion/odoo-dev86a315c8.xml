@@ -1,31 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <conversion>
   <applied-converters>
     <converter id="DockerRunConfigurationConverterProvider" />
-    <converter id="js-debug-configuration-converter" />
-    <converter id="js-predefined-libraries-merged" />
   </applied-converters>
   <project-files>
-    <file path="/home/wela/odoo-dev/.idea/GitScope.xml" timestamp="1568860251327" />
-    <file path="/home/wela/odoo-dev/.idea/code-comments.xml" timestamp="1568860747181" />
-    <file path="/home/wela/odoo-dev/.idea/codeStyles/Project.xml" timestamp="1564740090105" />
-    <file path="/home/wela/odoo-dev/.idea/codeStyles/codeStyleConfig.xml" timestamp="1564372725525" />
-    <file path="/home/wela/odoo-dev/.idea/codestream.xml" timestamp="1565080918794" />
-    <file path="/home/wela/odoo-dev/.idea/dataSources.local.xml" timestamp="1568708606825" />
-    <file path="/home/wela/odoo-dev/.idea/dataSources.xml" timestamp="1564739351195" />
-    <file path="/home/wela/odoo-dev/.idea/dataSources/3837aa1a-31e3-4106-8298-c55d919bd705.xml" timestamp="1574988510861" />
-    <file path="/home/wela/odoo-dev/.idea/dbnavigator.xml" timestamp="1564739684710" />
-    <file path="/home/wela/odoo-dev/.idea/dictionaries/wela.xml" timestamp="1563879100655" />
-    <file path="/home/wela/odoo-dev/.idea/inspectionProfiles/Project_Default.xml" timestamp="1564373486614" />
-    <file path="/home/wela/odoo-dev/.idea/jsLibraryMappings.xml" timestamp="1565670546435" />
-    <file path="/home/wela/odoo-dev/.idea/libraries/R_User_Library.xml" timestamp="1565080918842" />
     <file path="/home/wela/odoo-dev/.idea/misc.xml" timestamp="1565152372081" />
     <file path="/home/wela/odoo-dev/.idea/modules.xml" timestamp="1563345877177" />
-    <file path="/home/wela/odoo-dev/.idea/odoo-dev.iml" timestamp="1565670546319" />
     <file path="/home/wela/odoo-dev/.idea/saveactions_settings.xml" timestamp="1566869338988" />
-    <file path="/home/wela/odoo-dev/.idea/sqldialects.xml" timestamp="1565748698992" />
+    <file path="/home/wela/odoo-dev/.idea/GitScope.xml" timestamp="1568860251327" />
+    <file path="/home/wela/odoo-dev/.idea/libraries/R_User_Library.xml" timestamp="1565080918842" />
     <file path="/home/wela/odoo-dev/.idea/vcs.xml" timestamp="1569558806899" />
-    <file path="/home/wela/odoo-dev/.idea/workspace.xml" timestamp="1575271307871" />
+    <file path="/home/wela/odoo-dev/.idea/sqldialects.xml" timestamp="1565748698992" />
+    <file path="/home/wela/odoo-dev/.idea/dataSources.local.xml" timestamp="1568708606825" />
+    <file path="/home/wela/odoo-dev/.idea/odoo-dev.iml" timestamp="1565670546319" />
+    <file path="/home/wela/odoo-dev/.idea/dbnavigator.xml" timestamp="1564739684710" />
+    <file path="/home/wela/odoo-dev/.idea/jsLibraryMappings.xml" timestamp="1565670546435" />
+    <file path="/home/wela/odoo-dev/.idea/code-comments.xml" timestamp="1568860747181" />
+    <file path="/home/wela/odoo-dev/.idea/dataSources.xml" timestamp="1564739351195" />
+    <file path="/home/wela/odoo-dev/.idea/workspace.xml" timestamp="1575451151666" />
+    <file path="/home/wela/odoo-dev/.idea/codestream.xml" timestamp="1565080918794" />
   </project-files>
 </conversion>
-

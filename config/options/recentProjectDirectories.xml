@@ -1,55 +1,49 @@
 <application>
   <component name="RecentDirectoryProjectsManager">
-    <option name="recentPaths">
-      <list>
-        <option value="$USER_HOME$/odoo-dev" />
-        <option value="$USER_HOME$/odoo-demo" />
-        <option value="$USER_HOME$" />
-      </list>
-    </option>
-    <option name="openPaths">
-      <list>
-        <option value="$USER_HOME$/odoo-dev" />
-      </list>
-    </option>
-    <option name="lastPath" value="$USER_HOME$/odoo-dev" />
-    <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
         <entry key="$USER_HOME$">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="PY-191.7479.30" />
-              <option name="productionCode" value="PY" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1562906732570" />
+              <option name="build" value="PY-191.7479.30" />
               <option name="buildTimestamp" value="1559140090940" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1562906732570" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/odoo-demo">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="PY-191.7479.30" />
-              <option name="productionCode" value="PY" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1562933517617" />
+              <option name="build" value="PY-191.7479.30" />
               <option name="buildTimestamp" value="1559140100927" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1562933517617" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/odoo-dev">
           <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="PY-192.7142.56" />
-              <option name="productionCode" value="PY" />
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1OfFX7ysz4774r0LfF1M4kqQDxO">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1575334991787" />
-              <option name="buildTimestamp" value="1574162096414" />
+              <option name="build" value="PY-193.5233.109" />
+              <option name="buildTimestamp" value="1574943119888" />
+              <frame x="67" y="27" width="1853" height="1053" extendedState="6" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1575506292777" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
+    </option>
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/odoo-dev" />
+        <option value="$USER_HOME$/odoo-demo" />
+        <option value="$USER_HOME$" />
+      </list>
     </option>
   </component>
 </application>

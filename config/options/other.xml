@@ -64,8 +64,9 @@
     <property name="es6.show.auto.import" value="true" />
     <property name="evlsprt3.191" value="15" />
     <property name="evlsprt3.192" value="18" />
+    <property name="evlsprt3.193" value="16" />
     <property name="file.chooser.recent.files" value="$USER_HOME$/odoo-dev/odoo12e&#10;/home/wela/odoo-dev/odoo-venv/venv-12e&#10;/home/wela/odoo-dev/odoo12e/odoo-bin&#10;/home/wela/odoo-dev/odoo-venv/venv-12e/bin/python&#10;/home/wela/odoo-dev/odoo12e/addons_vpc/quotation&#10;/home/wela&#10;/home/wela/Desktop&#10;/home&#10;/home/wela/odoo-dev/odoo12e/addons_vpc&#10;/home/wela/settings.jar&#10;/home/wela/odoo-dev/odoo_github/odoo-bin&#10;/home/wela/odoo-dev/odoo-venv/venv-c/bin/python&#10;/home/wela/odoo-dev/odoo-venv/venv-13ca1/bin/python&#10;/home/wela/odoo-dev/odoo-venv/venv-c/bin/python3.7&#10;/home/wela/odoo-dev/odoo13ca1/odoo-bin&#10;/home/wela/odoo-dev/odoo-venv/venv-13ca1/bin/python3.7&#10;/home/wela/odoo-dev/odoo13ea1/odoo-bin&#10;/home/wela/odoo-dev/odoo13ea1/setup/odoo&#10;/home/wela/odoo-dev/odoo-venv/venv-13ea1/bin/python3.7&#10;/home/wela/odoo-dev/odoo-venv/venv-12c/bin/python3.7&#10;/home/wela/odoo-dev/odoo-venv/venv-12e-demo/bin/python3.6&#10;/home/wela/odoo-dev/odoo-demo/odoo12e/odoo-bin&#10;/home/wela/odoo-dev/odoo-demo/odoo11e/odoo-bin&#10;/home/wela/odoo-dev/odoo-venv/venv-11e-demo/bin/python3.6&#10;/home/wela/odoo-dev/odoo-venv/venv-12e/bin/python3.6&#10;/home/wela/odoo-dev/odoo-venv/venv-11e/bin/python3.6&#10;/home/wela/odoo-dev/odoo-venv/venv-10c/bin/python2.7&#10;/home/wela/odoo-demo/odoo11e/venv_11e_demo&#10;/home/wela/odoo-demo/odoo11e/venv_11e&#10;/home/wela/odoo-demo/odoo11e/odoo-bin" />
-    <property name="file.gist.reindex.count" value="1200906" />
+    <property name="file.gist.reindex.count" value="1249214" />
     <property name="fileTypeChangedCounter" value="135" />
     <property name="find.popup.splitter" value="0.24455206" />
     <property name="ide.memory.adjusted" value="true" />
@@ -84,7 +85,7 @@
     <property name="settings.code.style.selected.tab.XML" value="Other" />
     <property name="settings.code.style.selected.tab.csv" value="Settings" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
-    <property name="ts.lib.d.ts.version" value="3.5.2" />
+    <property name="ts.lib.d.ts.version" value="3.7.2" />
     <property name="typescript.show.auto.import" value="true" />
     <property name="vcs.history.diff.splitter.proportion" value="0.42722744" />
     <property name="vcs.log.changes.splitter.proportion" value="0.84632516" />
