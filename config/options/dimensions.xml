@@ -3,10 +3,10 @@
     <location key="FileChooserDialogImpl.0.0.1920.1080" x="686" y="329" />
     <location key="WELCOME_SCREEN.0.0.1920.1080" x="993" y="472" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="649" y="380" />
-    <location key="SettingsEditor.0.0.1920.1080" x="376" y="104" />
+    <location key="SettingsEditor.0.0.1920.1080" x="376" y="103" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="220" y="138" />
     <location key="scopes.0.0.1920.1080" x="589" y="215" />
-    <location key="find.popup.0.0.1920.1080" x="138" y="137" />
+    <location key="find.popup.0.0.1920.1080" x="67" y="77" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="682" y="362" />
     <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080" x="718" y="386" />
     <location key="ProcessPopupWindow.0.0.1920.1080" x="1252" y="481" />
@@ -47,11 +47,11 @@
     <size key="FileChooserDialogImpl.0.0.1920.1080" width="495" height="505" />
     <size key="SettingsEditor.0.0.1920.1080" width="1263" height="886" />
     <size key="scopes.0.0.1920.1080" width="800" height="684" />
-    <size key="find.popup.0.0.1920.1080" width="1652" height="893" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1807" height="268" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1807" height="268" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1807" height="268" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1807" height="268" />
+    <size key="find.popup.0.0.1920.1080" width="1652" height="986" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1807" height="178" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1807" height="178" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1807" height="178" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1807" height="178" />
     <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" width="905" height="404" />
     <size key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080" width="540" height="342" />
     <size key="ProcessPopupWindow.0.0.1920.1080" width="400" height="341" />

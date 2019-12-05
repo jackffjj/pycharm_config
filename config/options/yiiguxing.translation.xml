@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="must be field names" />
+      <item value="adapt" />
+      <item value="You have not select any RFQ quantity" />
       <item value="Error ! You just can only select a suppler price of per quantity!" />
       <item value="Error ! You can just select a suppler price of per quantity!" />
       <item value="Transient Model" />
@@ -48,12 +51,11 @@
       <item value="return" />
       <item value="category" />
       <item value="generates" />
-      <item value="whether operator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
