@@ -1,0 +1,91 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="686" y="329" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="993" y="472" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="649" y="380" />
+    <location key="SettingsEditor.0.0.1920.1080" x="67" y="91" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="220" y="138" />
+    <location key="scopes.0.0.1920.1080" x="589" y="215" />
+    <location key="find.popup.0.0.1920.1080" x="298" y="164" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="682" y="362" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080" x="718" y="386" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1252" y="481" />
+    <location key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.1920.1080" x="677" y="412" />
+    <location key="#Inspections.0.0.1920.1080" x="588" y="215" />
+    <location key="search.everywhere.popup.0.0.1920.1080" x="505" y="227" />
+    <location key="#Notifications.0.0.1920.1080" x="588" y="215" />
+    <location key="EnvironmentVariablesDialog.0.0.1920.1080" x="607" y="378" />
+    <location key="#Docker.0.0.1920.1080" x="629" y="429" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" x="734" y="425" />
+    <location key="#Intentions.0.0.1920.1080" x="588" y="215" />
+    <location key="#com.intellij.tools.ToolEditorDialog.0.0.1920.1080" x="433" y="303" />
+    <location key="RollbackChangesDialog.0.0.1920.1080" x="808" y="175" />
+    <location key="DBNavigator.ProjectSettingsDialog.0.0.1920.1080" x="526" y="211" />
+    <location key="#HTTP_Proxy.0.0.1920.1080" x="457" y="272" />
+    <location key="#xdebugger.evaluate.0.0.1920.1080" x="861" y="172" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080" x="519" y="204" />
+    <location key="IDE.errors.dialog.0.0.1920.1080" x="187" y="301" />
+    <location key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.0.0.1920.1080" x="676" y="281" />
+    <location key="#12e-demo-odoo-bin.0.0.1920.1080" x="662" y="183" />
+    <location key="editAsTableFormatDialogDimension.0.0.1920.1080" x="67" y="191" />
+    <location key="save.file.as.template.dialog.0.0.1920.1080" x="758" y="361" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1920.1080" x="767" y="172" />
+    <location key="git4idea.branch.GitBranchIsNotFullyMergedDialog.0.0.1920.1080" x="672" y="191" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="237" y="55" />
+    <location key="git4idea.ui.GitUnstashDialog.0.0.1920.1080" x="497" y="381" />
+    <location key="com.jetbrains.python.documentation.PythonDocumentationEntryEditor.0.0.1920.1080" x="580" y="361" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080" x="173" y="159" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080" width="495" height="505" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1795" height="886" />
+    <size key="scopes.0.0.1920.1080" width="800" height="684" />
+    <size key="find.popup.0.0.1920.1080" width="1445" height="745" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1807" height="334" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1807" height="334" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1807" height="334" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1807" height="334" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" width="905" height="404" />
+    <size key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080" width="540" height="342" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="400" height="341" />
+    <size key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.1920.1080" width="612" height="331" />
+    <size key="#Inspections.0.0.1920.1080" width="800" height="684" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1807" height="268" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1807" height="268" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1807" height="268" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1807" height="268" />
+    <size key="search.everywhere.popup.0.0.1920.1080" width="672" height="678" />
+    <size key="Search_Everywhere_Filter_Popup.0.0.1920.1080" width="254" height="198" />
+    <size key="#Notifications.0.0.1920.1080" width="800" height="684" />
+    <size key="EnvironmentVariablesDialog.0.0.1920.1080" width="515" height="437" />
+    <size key="#Docker.0.0.1920.1080" width="472" height="336" />
+    <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" width="508" height="264" />
+    <size key="#Intentions.0.0.1920.1080" width="800" height="684" />
+    <size key="#com.intellij.tools.ToolEditorDialog.0.0.1920.1080" width="1189" height="516" />
+    <size key="RollbackChangesDialog.0.0.1920.1080" width="361" height="763" />
+    <size key="DBNavigator.ProjectSettingsDialog.0.0.1920.1080" width="924" height="691" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" width="1385" height="710" />
+    <size key="HiddenNamespacesPopup.0.0.1920.1080" width="263" height="621" />
+    <size key="#HTTP_Proxy.0.0.1920.1080" width="800" height="684" />
+    <size key="#xdebugger.evaluate.0.0.1920.1080" width="254" height="784" />
+    <size key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080" width="939" height="705" />
+    <size key="IDE.errors.dialog.0.0.1920.1080" width="832" height="579" />
+    <size key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.0.0.1920.1080" width="624" height="551" />
+    <size key="ShowFilterAction_Filter_Popup.0.0.1920.1080" width="247" height="198" />
+    <size key="#12e-demo-odoo-bin.0.0.1920.1080" width="652" height="748" />
+    <size key="editAsTableFormatDialogDimension.0.0.1920.1080" width="1586" height="691" />
+    <size key="VCS.ChangeListViewerDialog.0.0.1920.1080" width="443" height="770" />
+    <size key="git4idea.branch.GitBranchIsNotFullyMergedDialog.0.0.1920.1080" width="632" height="731" />
+    <size key="CommitChangelistDialog2.0.0.1920.1080" width="1288" height="906" />
+    <size key="git4idea.ui.GitUnstashDialog.0.0.1920.1080" width="982" height="351" />
+    <size key="javadoc.popup.new.0.0.1920.1080" width="827" height="500" />
+    <size key="com.jetbrains.python.documentation.PythonDocumentationEntryEditor.0.0.1920.1080" width="758" height="384" />
+    <size key="Vcs.Push.Dialog.0.0.1920.1080" width="1299" height="741" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="167" y="127" width="1653" height="853" key="DiffContextDialog" />
+    <state x="167" y="127" width="1653" height="853" key="DiffContextDialog/1920.1080" />
+    <state x="167" y="127" width="1653" height="853" key="DiffContextDialog@1920.1080" />
+    <state x="167" y="127" width="1653" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog" />
+    <state x="167" y="127" width="1653" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.1080" />
+    <state x="167" y="127" width="1653" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog@1920.1080" />
+  </component>
+</application>

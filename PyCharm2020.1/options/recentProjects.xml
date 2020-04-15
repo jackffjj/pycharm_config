@@ -1,0 +1,49 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-191.7479.30" />
+              <option name="buildTimestamp" value="1559140090940" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1562906732570" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/odoo-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-191.7479.30" />
+              <option name="buildTimestamp" value="1559140100927" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1562933517617" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/odoo-dev">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1OfFX7ysz4774r0LfF1M4kqQDxO">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-201.6668.115" />
+              <option name="buildTimestamp" value="1586256117798" />
+              <frame extendedState="6" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1586932987099" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/odoo-dev" />
+        <option value="$USER_HOME$/odoo-demo" />
+        <option value="$USER_HOME$" />
+      </list>
+    </option>
+  </component>
+</application>

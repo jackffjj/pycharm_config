@@ -1,0 +1,126 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$Copy">
+        <ActionSummary times="2" last="1586930833166" />
+      </entry>
+      <entry key="$Cut">
+        <ActionSummary times="1" last="1586922707232" />
+      </entry>
+      <entry key="$Delete">
+        <ActionSummary times="3" last="1586922543376" />
+      </entry>
+      <entry key="$EditorTranslateAction">
+        <ActionSummary times="10" last="1586929700847" />
+      </entry>
+      <entry key="$Undo">
+        <ActionSummary times="26" last="1586931641454" />
+      </entry>
+      <entry key="ChooseRunConfiguration">
+        <ActionSummary times="1" last="1586924027948" />
+      </entry>
+      <entry key="CloseAllEditorsButActive">
+        <ActionSummary times="1" last="1586922539167" />
+      </entry>
+      <entry key="CommentByLineComment">
+        <ActionSummary times="2" last="1586930767180" />
+      </entry>
+      <entry key="CompareClipboardWithSelection">
+        <ActionSummary times="1" last="1586930173814" />
+      </entry>
+      <entry key="Console.ShowAsJson">
+        <ActionSummary times="3" last="1586930264439" />
+      </entry>
+      <entry key="ConsoleView.ShowAsJsonAction">
+        <ActionSummary times="1" last="1586930216909" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="185" last="1586931633655" />
+      </entry>
+      <entry key="EditorChooseLookupItem">
+        <ActionSummary times="10" last="1586931635494" />
+      </entry>
+      <entry key="EditorCopy">
+        <ActionSummary times="10" last="1586931152623" />
+      </entry>
+      <entry key="EditorDown">
+        <ActionSummary times="7" last="1586931546636" />
+      </entry>
+      <entry key="EditorDuplicateLines">
+        <ActionSummary times="3" last="1586930018980" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="11" last="1586931540802" />
+      </entry>
+      <entry key="EditorLeft">
+        <ActionSummary times="16" last="1586931616957" />
+      </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="9" last="1586931154183" />
+      </entry>
+      <entry key="EditorTab">
+        <ActionSummary times="4" last="1586931597419" />
+      </entry>
+      <entry key="EditorUp">
+        <ActionSummary times="1" last="1586931178819" />
+      </entry>
+      <entry key="ExpandLiveTemplateByTab">
+        <ActionSummary times="1" last="1586931610504" />
+      </entry>
+      <entry key="Find">
+        <ActionSummary times="1" last="1586924331994" />
+      </entry>
+      <entry key="FindInPath">
+        <ActionSummary times="12" last="1586930687476" />
+      </entry>
+      <entry key="InsertLiveTemplate">
+        <ActionSummary times="9" last="1586931630269" />
+      </entry>
+      <entry key="Rerun">
+        <ActionSummary times="28" last="1586929784503" />
+      </entry>
+      <entry key="RevealIn">
+        <ActionSummary times="2" last="1586926774383" />
+      </entry>
+      <entry key="Run">
+        <ActionSummary times="8" last="1586927235520" />
+      </entry>
+      <entry key="SaveAll">
+        <ActionSummary times="35" last="1586930779635" />
+      </entry>
+      <entry key="ShowSettings">
+        <ActionSummary times="3" last="1586921230852" />
+      </entry>
+      <entry key="Stop">
+        <ActionSummary times="42" last="1586929784127" />
+      </entry>
+      <entry key="com.intellij.docker.DockerFileDetector$Notifier$1">
+        <ActionSummary times="1" last="1586927313483" />
+      </entry>
+      <entry key="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
+        <ActionSummary times="2" last="1586930597096" />
+      </entry>
+      <entry key="com.intellij.find.impl.FindUIHelper$1">
+        <ActionSummary times="1" last="1586930585250" />
+      </entry>
+      <entry key="com.intellij.ide.actions.CollapseAllToolbarAction">
+        <ActionSummary times="2" last="1586930927636" />
+      </entry>
+      <entry key="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction">
+        <ActionSummary times="6" last="1586930837155" />
+      </entry>
+      <entry key="com.intellij.notification.NotificationAction$1">
+        <ActionSummary times="1" last="1586932910934" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+        <ActionSummary times="10" last="1586930929107" />
+      </entry>
+      <entry key="com.sburlyaev.cmd.plugin.actions.OpenInTerminal">
+        <ActionSummary times="14" last="1586926889175" />
+      </entry>
+      <entry key="krasa.grepconsole.integration.MyConsoleActionsPostProcessor$1">
+        <ActionSummary times="4" last="1586930291997" />
+      </entry>
+    </data>
+  </component>
+</application>
