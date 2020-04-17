@@ -6,7 +6,7 @@
     <location key="SettingsEditor.0.0.1920.1080" x="67" y="91" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="220" y="138" />
     <location key="scopes.0.0.1920.1080" x="589" y="215" />
-    <location key="find.popup.0.0.1920.1080" x="298" y="164" />
+    <location key="find.popup.0.0.1920.1080" x="175" y="221" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="682" y="362" />
     <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080" x="718" y="386" />
     <location key="ProcessPopupWindow.0.0.1920.1080" x="1252" y="481" />
@@ -39,10 +39,10 @@
     <size key="SettingsEditor.0.0.1920.1080" width="1795" height="886" />
     <size key="scopes.0.0.1920.1080" width="800" height="684" />
     <size key="find.popup.0.0.1920.1080" width="1445" height="745" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1807" height="334" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1807" height="334" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1807" height="334" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1807" height="334" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1807" height="339" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1807" height="339" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1807" height="339" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1807" height="339" />
     <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" width="905" height="404" />
     <size key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080" width="540" height="342" />
     <size key="ProcessPopupWindow.0.0.1920.1080" width="400" height="341" />
@@ -79,6 +79,23 @@
     <size key="javadoc.popup.new.0.0.1920.1080" width="827" height="500" />
     <size key="com.jetbrains.python.documentation.PythonDocumentationEntryEditor.0.0.1920.1080" width="758" height="384" />
     <size key="Vcs.Push.Dialog.0.0.1920.1080" width="1299" height="741" />
+  </component>
+  <component name="WindowManager">
+    <frame x="67" y="27" width="1853" height="1053" extendedState="6" />
+    <layout>
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+    </layout>
   </component>
   <component name="WindowStateApplicationService">
     <state x="167" y="127" width="1653" height="853" key="DiffContextDialog" />

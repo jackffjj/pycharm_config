@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reconcile" />
+      <item value="account.partial.reconcile" />
+      <item value="credit" />
+      <item value="Reconciliation" />
+      <item value="{'state': 'draft', 'move_name': False, 'invoice_ids': [(6, 0, [14])], 'amount': 1840.0, 'currency_id': 2, 'payment_type': 'inbound', 'partner_id': 15, 'partner_type': 'customer', 'communication': 'INV/2020/0010/10', 'multi': False}" />
+      <item value="precent" />
+      <item value="# Within the context of an invoice, # this default value is for the type of the invoice, not the type of the asset. # This has to be cleaned from the context before creating the asset, # otherwise it tries to create the asset with the type of the invoice." />
+      <item value="Invoiced Method" />
       <item value="数额" />
       <item value="digit" />
       <item value="amount" />
@@ -22,8 +30,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="27" />
       </map>
     </option>
   </component>

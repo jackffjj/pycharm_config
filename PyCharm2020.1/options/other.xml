@@ -21,20 +21,19 @@
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ExpandRunDashboardTypesPanel" value="true" />
     <property name="ExternalToolDialog.advanced.expanded" value="true" />
-    <property name="FileChooser.ShowPath" value="false" />
+    <property name="FileChooser.ShowPath" value="true" />
     <property name="FileTemplates.SelectedTemplate" value="XML Properties File" />
     <property name="GitExtensions.ExecutablePath" value="" />
     <property name="GraphDbSupport.KnownPluginVersion" value="2.5.5" />
     <property name="GraphDbSupport.UserId" value="97d75d6f-dd4b-466d-838e-30e6ac62865d" />
     <property name="INSPECTION_FILTER_HISTORY" value="odoo" />
-    <property name="InstalledPluginsSearchHistory" value="code&#10;s&#10;se&#10;sel&#10;sele" />
+    <property name="InstalledPluginsSearchHistory" value="find&#10;class&#10;clas&#10;cla&#10;cl" />
     <property name="KEYMAP" value="Ctrl /&#10;duplicate" />
     <property name="LayoutCode.optimizeImports" value="false" />
     <property name="LayoutCode.processChangedText" value="false" />
     <property name="LayoutCode.rearrangeEntriesXML" value="false" />
-    <property name="MarketplacePluginsSearchHistory" value="select&#10;selec&#10;sel&#10;se&#10;git" />
+    <property name="MarketplacePluginsSearchHistory" value="find&#10;show&#10;s&#10;class&#10;c" />
     <property name="PACKAGE_FILTER" value="pylint-odoo&#10;code&#10;odoo&#10;style&#10;flake8" />
-    <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="PluginCopyPasteStack.SplitPaneDividerLocation" value="149" />
     <property name="PyCharm.InitialConfiguration" value="true" />
     <property name="PyCharm.InitialConfiguration.V2" value="true" />
@@ -44,13 +43,15 @@
     <property name="PyCharm.InitialConfiguration.V6" value="true" />
     <property name="PyCharm.InitialConfiguration.V7" value="true" />
     <property name="PyCharm.initialConfigurationShown" value="true" />
-    <property name="SettingsSearchHistory" value="lib&#10;git&#10;save&#10;string mani&#10;comment" />
+    <property name="SHOW_INHERITED.file.structure.state" value="true" />
+    <property name="SettingsSearchHistory" value="find&#10;soft wraps&#10;lib&#10;git&#10;save" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
     <property name="SplitFileEditor.Proportion" value="0.7900404" />
     <property name="SqlStructureView.filterD.file.structure.state" value="true" />
     <property name="TextEditorWithPreview.SplitterProportionKey" value="0.27698115" />
     <property name="TrendingPluginsSearchHistory" value="odoo" />
     <property name="UITheme.relaunch" value="true" />
-    <property name="appcds.runOnSecondStart" value="PY-201.6668.115-aca4f028c26ebcc92d93e3bfdbbad4cce7109308c93b1bec1869e8508afc5283" />
+    <property name="appcds.runOnSecondStart" value="PY-201.6668.115-85ff76b43e37c06d9c4d8c7fd2f4a725448d964813cff11340c3c975514988d0" />
     <property name="cn.yiiguxing.plugin.translate.version" value="2.8.1" />
     <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
     <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
@@ -58,7 +59,7 @@
     <property name="evlsprt3.192" value="18" />
     <property name="evlsprt3.201" value="12" />
     <property name="file.chooser.recent.files" value="$USER_HOME$/odoo-dev/odoo12e&#10;/home/wela/odoo-dev/odoo-venv/venv-12e&#10;/home/wela/odoo-dev/odoo12e/odoo-bin&#10;/home/wela/odoo-dev/odoo-venv/venv-12e/bin/python&#10;/home/wela/odoo-dev/odoo12e/addons_vpc/quotation&#10;/home/wela&#10;/home/wela/Desktop&#10;/home&#10;/home/wela/odoo-dev/odoo12e/addons_vpc&#10;/home/wela/settings.jar&#10;/home/wela/odoo-dev/odoo_github/odoo-bin&#10;/home/wela/odoo-dev/odoo-venv/venv-c/bin/python&#10;/home/wela/odoo-dev/odoo-venv/venv-13ca1/bin/python&#10;/home/wela/odoo-dev/odoo-venv/venv-c/bin/python3.7&#10;/home/wela/odoo-dev/odoo13ca1/odoo-bin&#10;/home/wela/odoo-dev/odoo-venv/venv-13ca1/bin/python3.7&#10;/home/wela/odoo-dev/odoo13ea1/odoo-bin&#10;/home/wela/odoo-dev/odoo13ea1/setup/odoo&#10;/home/wela/odoo-dev/odoo-venv/venv-13ea1/bin/python3.7&#10;/home/wela/odoo-dev/odoo-venv/venv-12c/bin/python3.7&#10;/home/wela/odoo-dev/odoo-venv/venv-12e-demo/bin/python3.6&#10;/home/wela/odoo-dev/odoo-demo/odoo12e/odoo-bin&#10;/home/wela/odoo-dev/odoo-demo/odoo11e/odoo-bin&#10;/home/wela/odoo-dev/odoo-venv/venv-11e-demo/bin/python3.6&#10;/home/wela/odoo-dev/odoo-venv/venv-12e/bin/python3.6&#10;/home/wela/odoo-dev/odoo-venv/venv-11e/bin/python3.6&#10;/home/wela/odoo-dev/odoo-venv/venv-10c/bin/python2.7&#10;/home/wela/odoo-demo/odoo11e/venv_11e_demo&#10;/home/wela/odoo-demo/odoo11e/venv_11e&#10;/home/wela/odoo-demo/odoo11e/odoo-bin" />
-    <property name="file.gist.reindex.count" value="1023749" />
+    <property name="file.gist.reindex.count" value="1069549" />
     <property name="fileTypeChangedCounter" value="122" />
     <property name="ide.memory.adjusted" value="true" />
     <property name="ideavim.statistics.timestamp" value="1564726842859" />
@@ -68,6 +69,7 @@
     <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="751" />
     <property name="lastTip" value="42" />
     <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="quick.doc.font.size.v3" value="X_SMALL" />
     <property name="selected.color.option.type" value="DEFAULT_BLOCK_COMMENT" />
     <property name="settings.code.style.selected.tab.EditorConfig" value="Spaces" />
     <property name="settings.code.style.selected.tab.Python" value="Wrapping and Braces" />

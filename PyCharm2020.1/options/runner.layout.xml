@@ -63,7 +63,9 @@
         <option name="ID" value="ConsoleContent" />
         <option name="placeInGrid" value="right" />
       </ViewImpl>
-      <TabImpl />
+      <TabImpl>
+        <option name="rightProportion" value="0.19988738" />
+      </TabImpl>
     </runner>
   </component>
 </application>
