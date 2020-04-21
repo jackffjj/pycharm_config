@@ -11,11 +11,11 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.pyw</mask>
-    <mask>*.xml</mask>
     <mask>*.py</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

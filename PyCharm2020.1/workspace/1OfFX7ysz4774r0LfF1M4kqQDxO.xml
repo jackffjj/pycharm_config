@@ -1,86 +1,45 @@
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/odoo12e/vpc_addons/account_extend/models/account_invoice.py" line="30" />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/account_extend/models/account_invoice.py">
+        <entry file="file://$PROJECT_DIR$/.gitmodules">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1261">
-              <caret line="72" column="34" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="34" />
+            <state relative-caret-position="483">
+              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/odoo12e/.gitignore">
+        <entry file="file://$PROJECT_DIR$/odoo-demo/odoo12e/.gitmodules">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/odoo12e/.gitmodules">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="14" />
+            <state relative-caret-position="105">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/account_extend/views/account_invoice.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="26" column="78" selection-start-line="26" selection-start-column="78" selection-end-line="26" selection-end-column="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/sale_order/wizard/sale_make_invoice_advance_inherit.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="67" column="55" selection-start-line="67" selection-start-column="55" selection-end-line="67" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/sale_order/wizard/__init__.py">
+        <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/account_extend/__init__.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/sale_order/wizard/sale_make_invoice_advance_views_inherit.xml">
+        <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/account_extend/models/account_invoice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-441" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/sale/wizard/sale_make_invoice_advance.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="179" column="54" selection-start-line="129" selection-end-line="179" selection-end-column="54" />
+            <state relative-caret-position="42">
+              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/odoo_github/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitmodules">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -88,36 +47,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>_name \= \&quot;account\.move</find>
-      <find>account\.invoice</find>
-      <find>invoice_id =</find>
-      <find>You cannot delete an invoice after it ha</find>
-      <find>debit_move_id =</find>
-      <find>account.payment</find>
-      <find>_name \= \&quot;account\.payment</find>
-      <find>ids.</find>
-      <find>payment</find>
-      <find>ids.remove</find>
-      <find>_ids.*.\(self.id</find>
-      <find>payment_id =</find>
-      <find>account\.payment</find>
-      <find>\.mapped</find>
-      <find>self.*.ids = False</find>
-      <find>You cannot delete a payment that is already posted.</find>
-      <find>state =</find>
-      <find>It is not allowed to delete a payment that already created a journal entry since it would</find>
-      <find>account.account</find>
-      <find>_get_outstanding_info_JSON</find>
-      <find>account_id</find>
-      <find>account_id =</find>
-      <find>account_id \= fields\.Many2one</find>
-      <find>account_id = fields.Many2one</find>
-      <find>account.move</find>
-      <find>\.mapp</find>
-      <find>You cannot delete an invoice after it has been valid</find>
-      <find>Invoices will be created in</find>
-      <find>create_invoices</find>
-      <find>action_invoice_create</find>
+      <find>post_init_hook</find>
+      <find>init_demo_data_hook</find>
+      <find>cr\, SUPERUSER_ID\,</find>
+      <find>api\.Environment\(cr\, SUPERUSER_ID\,</find>
+      <find>(cr, registry):</find>
+      <find>options\[\'without_demo\'\]</find>
+      <find>demo</find>
+      <find>without_demo</find>
+      <find>tools</find>
+      <find>WEBSITE</find>
+      <find>www.yourcompany.com</find>
+      <find>cr</find>
+      <find>model\=\&quot;res\.company\&quot;</find>
+      <find>main_company</find>
+      <find>\&lt;field name\=\&quot;logo\&quot;</find>
+      <find>type\=\&quot;base64\&quot;</find>
+      <find>name\=\&quot;logo\&quot;</find>
+      <find>\.main_company</find>
+      <find>logo_web</find>
+      <find>main_partner</find>
+      <find>field name\=\&quot;image\&quot;</find>
+      <find>base.cn</find>
+      <find>main_partner\&quot;</find>
+      <find>noupdate\=\&quot;1\&quot;</find>
+      <find>\&lt;field name\=\&quot;name\&quot;\&gt;My Co</find>
+      <find>\&lt;record id\=\&quot;res_partner_company_1\&quot;</find>
+      <find>Chintech Electronics Limited</find>
+      <find>res_partner_company_1\&quot; model</find>
+      <find>res_partner_company_1</find>
+      <find>My Company, Chicago11</find>
     </findStrings>
     <replaceStrings>
       <replace>'</replace>
@@ -125,41 +84,23 @@
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/odoo11e</dir>
-      <dir>$PROJECT_DIR$/odoo12e/addons_vpc/quotation</dir>
       <dir>$PROJECT_DIR$/odoo12e/addons_vpc/quotation_12e_api_test</dir>
       <dir>$PROJECT_DIR$/odoo12e/addons_vpc/11e_product_common</dir>
       <dir>$PROJECT_DIR$/odoo12e/database</dir>
-      <dir>$PROJECT_DIR$/odoo12e</dir>
       <dir>$PROJECT_DIR$/odoo12e/addons_vpc/</dir>
       <dir>$PROJECT_DIR$/</dir>
       <dir>$PROJECT_DIR$/odoo12e/odoo/addons/account</dir>
-      <dir>$PROJECT_DIR$/odoo12e/</dir>
       <dir>$PROJECT_DIR$/odoo12e/odoo/addons/sale</dir>
+      <dir>$PROJECT_DIR$/odoo12e/odoo/addons/stock</dir>
+      <dir>$PROJECT_DIR$/odoo12e/odoo/</dir>
+      <dir>$PROJECT_DIR$/odoo12e</dir>
+      <dir>$PROJECT_DIR$/odoo12e/addons_vpc/quotation</dir>
+      <dir>$PROJECT_DIR$/odoo12e/</dir>
     </dirStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/odoo12e/addons_vpc/quotation/security/quotation_security.xml" />
-        <option value="$PROJECT_DIR$/odoo12e/addons_vpc/sales_quotation/security/ir.model.access.csv" />
-        <option value="$PROJECT_DIR$/odoo12e/addons_vpc/sales_quotation/models/__init__.py" />
-        <option value="$PROJECT_DIR$/odoo12e/addons_vpc/sales_quotation/__init__.py" />
-        <option value="$PROJECT_DIR$/odoo12e/addons_vpc/quotation_12e_api_test/security/quotation_security.xml" />
-        <option value="$PROJECT_DIR$/odoo12e/addons_vpc/sales_quotation/security/quotation_security.xml" />
-        <option value="$PROJECT_DIR$/odoo12e/addons_vpc/quotation_12e_api_test/models/quotation_request.py" />
-        <option value="$PROJECT_DIR$/odoo12e/addons_vpc/sales_quotation/views/sales_quotation.xml" />
-        <option value="$PROJECT_DIR$/odoo12e/addons_vpc/sales_quotation/models/sales_quotation.py" />
-        <option value="$PROJECT_DIR$/odoo12e/addons_vpc/sales_quotation/__manifest__.py" />
-        <option value="$PROJECT_DIR$/odoo12e/addons_vpc/sales_quotation/views/sales_rfq.xml" />
-        <option value="$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/views/sale_quotation.xml" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
-        <option value="$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/security/ir.model.access.csv" />
-        <option value="$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/data/ir_sequence_data.xml" />
-        <option value="$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/data/demo.xml" />
-        <option value="$PROJECT_DIR$/odoo12e/odoo/addons/stock/data/stock_demo.xml" />
-        <option value="$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/views/sale_rfq.xml" />
-        <option value="$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/models/sale_quotation.py" />
-        <option value="$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/data/sale_quotation_demo.xml" />
         <option value="$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/views/res_company.xml" />
         <option value="$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/models/__init__.py" />
         <option value="$PROJECT_DIR$/odoo12e/odoo/addons/hr/views/hr_views.xml" />
@@ -187,10 +128,30 @@
         <option value="$PROJECT_DIR$/odoo12e/odoo.egg-info/dependency_links.txt" />
         <option value="$PROJECT_DIR$/odoo12e/.gitignore" />
         <option value="$PROJECT_DIR$/odoo12e/vpc_addons/sale_order/models/sale_order.py" />
-        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/sale_order/wizard/sale_make_invoice_advance_inherit.py" />
         <option value="$PROJECT_DIR$/odoo12e/vpc_addons/account_extend/views/account_invoice.xml" />
-        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/account_extend/models/account_invoice.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/sale_order/wizard/sale_make_invoice_advance_inherit.py" />
+        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/stock_extend/models/stock.py" />
+        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/stock_extend/models/__init__.py" />
+        <option value="$PROJECT_DIR$/odoo12e/odoo/addons/stock/views/stock_picking_views.xml" />
+        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/mrp_extend/models/__init__.py" />
+        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/stock_extend/views/stock.xml" />
+        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/mrp_extend/__manifest__.py" />
+        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/mrp_extend/models/mrp.py" />
+        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/models/res_company.py" />
+        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/models/__init__.py" />
+        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/views/res_company.xml" />
+        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/mrp_extend/views/mrp.xml" />
+        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/data/res_company_demo.xml" />
+        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/__init__.py" />
+        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/data/res_partner_data.xml" />
+        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/data/res_company_data.xml" />
+        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/__manifest__.py" />
+        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/stock_extend/data/res_company_demo.xml" />
+        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/stock_extend/data/res_partner_demo.xml" />
+        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/stock_extend/__manifest__.py" />
+        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/data/res_partner_demo.xml" />
+        <option value="$PROJECT_DIR$/odoo12e/vpc_addons/account_extend/models/account_invoice.py" />
       </list>
     </option>
   </component>
@@ -201,10 +162,11 @@
       </set>
     </option>
   </component>
-  <component name="ProjectFrameBounds" x="67" y="27" width="1853" height="1053" extendedState="6" />
+  <component name="ProjectFrameBounds" x="77" y="102" width="1843" height="789" extendedState="6" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,20 +174,27 @@
               <item name="odoo-dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="odoo-dev" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="odoo-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="odoo-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="odoo-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="odoo-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo12e" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="TerminalArrangementManager">
-    <option name="myTabStates">
-      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="history-11" />
-    </option>
+    <option name="mySelectedTabIndex" value="-1" />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="607466000" />
+    <option name="totallyTimeSpent" value="648232000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -237,71 +206,69 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="R Packages" order="13" weight="0.32982844" />
       <window_info anchor="bottom" id="Internal Method Tracing" order="6" />
       <window_info anchor="bottom" id="DB Execution Console" order="19" />
       <window_info anchor="bottom" id="Flow" order="8" />
+      <window_info anchor="right" id="R Graphics" order="15" weight="0.32982844" />
       <window_info anchor="bottom" id="Python Console" order="16" weight="0.3295964" />
+      <window_info anchor="bottom" x="113" y="193" width="1807" height="887" id="Run" order="2" sideWeight="0.4950362" weight="0.30679512" />
       <window_info anchor="right" id="R Tools" order="5" weight="0.32982844" />
       <window_info anchor="bottom" id="Graph Database Console" order="23" weight="0.32996634" />
       <window_info anchor="bottom" id="TypeScript" order="7" />
-      <window_info anchor="bottom" x="113" y="193" width="1807" height="887" id="Run" order="2" sideWeight="0.49529606" visible="true" weight="0.3071749" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Word Book" order="9" side_tool="true" weight="0.32982844" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="DB Browser" order="2" weight="0.3381295" />
-      <window_info anchor="bottom" id="R Console" order="11" weight="0.3295964" />
+      <window_info anchor="bottom" id="R Console" order="12" weight="0.3295964" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.4997233" weight="0.74663675" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4997233" weight="0.9663677" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Nativescript Palette" order="12" />
       <window_info active="true" anchor="right" id="Git Scope" order="19" side_tool="true" visible="true" weight="0.32982844" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50470394" side_tool="true" weight="0.31278026" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50496376" side_tool="true" weight="0.30679512" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Statistic" order="17" sideWeight="0.4975097" weight="0.32996634" />
       <window_info anchor="right" x="0" y="0" width="413" height="853" id="Documentation" order="6" side_tool="true" visible="true" weight="0.32982844" />
       <window_info anchor="right" id="Graph Database" order="14" weight="0.32982844" />
-      <window_info anchor="right" id="Database" order="4" weight="0.1936912" />
-      <window_info anchor="bottom" id="Tail" order="18" weight="0.3295964" />
       <window_info anchor="right" id="Key Promoter X" order="7" weight="0.32982844" />
       <window_info anchor="bottom" x="90" y="426" width="1807" height="255" id="Services" order="20" show_stripe_button="false" weight="0.29180697" />
-      <window_info anchor="bottom" id="Database Changes" order="15" sideWeight="0.4997233" weight="0.32996634" />
-      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.4975097" weight="0.32934782" />
+      <window_info anchor="bottom" id="Database Changes" order="15" sideWeight="0.4997233" weight="0.3295964" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.4975097" weight="0.32934782" />
       <window_info anchor="right" id="Json Parser" order="10" weight="0.32982844" />
       <window_info id="Commit" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.35538116" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48601398" visible="true" weight="0.13281682" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48601398" visible="true" weight="0.10839818" />
       <window_info anchor="right" id="Translation Assistant" order="8" weight="0.32982844" />
-      <window_info anchor="right" id="R Graphics" order="15" weight="0.32982844" />
+      <window_info anchor="right" id="Database" order="4" weight="0.1936912" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="CodeStream" order="16" weight="0.21250692" />
       <window_info anchor="bottom" id="TODO" order="21" sideWeight="0.4997233" weight="0.32847533" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32982844" />
-      <window_info anchor="bottom" id="Regex Tester" order="22" weight="0.32996634" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
       <window_info anchor="right" id="Jenkins" order="18" weight="0.33370227" />
       <window_info anchor="right" x="1506" y="191" width="288" height="565" id="Structure" order="20" sideWeight="0.513986" weight="0.15384616" />
-      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Regex Tester" order="22" weight="0.32996634" />
       <window_info anchor="bottom" id="Missing In Actions" order="24" weight="0.32996634" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="right" id="PlantUML" order="11" weight="0.32982844" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49584946" weight="0.332211" />
+      <window_info anchor="bottom" id="Tail" order="18" weight="0.3295964" />
       <window_info anchor="right" id="Copy/Paste" order="17" weight="0.32982844" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="CodeStream" order="16" weight="0.21250692" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49584946" weight="0.332211" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="R Packages" order="12" weight="0.32982844" />
       <window_info anchor="bottom" id="Internal Method Tracing" order="6" />
       <window_info anchor="bottom" id="DB Execution Console" order="19" />
       <window_info anchor="bottom" id="Flow" order="8" />
-      <window_info anchor="right" id="R Graphics" order="14" weight="0.32982844" />
       <window_info anchor="bottom" id="Python Console" order="16" weight="0.32996634" />
       <window_info anchor="right" id="R Tools" order="5" />
       <window_info anchor="bottom" id="Graph Database Console" order="23" weight="0.32996634" />
       <window_info anchor="bottom" id="TypeScript" order="7" />
       <window_info anchor="bottom" x="113" y="193" width="1807" height="887" id="Run" order="2" sideWeight="0.49529606" visible="true" weight="0.31390134" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Word Book" order="8" side_tool="true" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="DB Browser" order="3" weight="0.3381295" />
       <window_info anchor="bottom" id="R Console" order="12" />
@@ -311,9 +278,11 @@
       <window_info active="true" anchor="right" id="Git Scope" order="18" side_tool="true" visible="true" weight="0.32982844" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50470394" side_tool="true" weight="0.31278026" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Statistic" order="17" sideWeight="0.4975097" weight="0.32996634" />
+      <window_info anchor="bottom" id="TODO" order="21" sideWeight="0.4997233" weight="0.32884398" />
       <window_info anchor="right" id="Graph Database" order="13" weight="0.32982844" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.24915825" />
+      <window_info anchor="right" id="Database" order="4" weight="0.1936912" />
       <window_info anchor="bottom" id="Tail" order="18" weight="0.32996634" />
       <window_info anchor="right" id="Key Promoter X" order="6" weight="0.32982844" />
       <window_info anchor="bottom" x="90" y="426" width="1807" height="255" id="Services" order="20" show_stripe_button="false" weight="0.29180697" />
@@ -321,352 +290,338 @@
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4975097" weight="0.32934782" />
       <window_info anchor="right" id="Json Parser" order="9" weight="0.32982844" />
       <window_info id="Commit" order="4" />
-      <window_info anchor="right" id="Word Book" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="13" sideWeight="0.4997233" weight="0.32996634" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49457365" visible="true" weight="0.16325401" />
       <window_info anchor="right" id="Translation Assistant" order="7" weight="0.32982844" />
-      <window_info anchor="right" id="Database" order="4" weight="0.1936912" />
+      <window_info anchor="right" id="R Graphics" order="14" weight="0.32982844" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="TODO" order="21" sideWeight="0.4997233" weight="0.32884398" />
+      <window_info anchor="right" id="CodeStream" order="15" weight="0.21250692" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32982844" />
-      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Regex Tester" order="22" weight="0.32996634" />
       <window_info anchor="right" id="Jenkins" order="17" weight="0.33370227" />
       <window_info id="Structure" order="1" sideWeight="0.50542635" side_tool="true" weight="0.14886552" />
-      <window_info anchor="bottom" id="Regex Tester" order="22" weight="0.32996634" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
       <window_info anchor="bottom" id="Missing In Actions" order="24" weight="0.32996634" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="right" id="PlantUML" order="10" weight="0.32982844" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49584946" weight="0.332211" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.24915825" />
       <window_info anchor="right" id="Copy/Paste" order="16" weight="0.32982844" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="CodeStream" order="15" weight="0.21250692" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49584946" weight="0.332211" />
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/models/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/data/sale_quotation_data.xml" />
-    <entry file="file://$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/views/sale_rfq_view.xml" />
-    <entry file="file://$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/views/sale_quotation_view.xml" />
-    <entry file="file://$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/views/res_company_view.xml" />
-    <entry file="file://$PROJECT_DIR$/odoo12e/addons_vpc/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/mrp/__manifest__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/mrp_extend/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../.software/CodeTime.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/data/ir_sequence_data.xml">
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/mrp_extend/security/ir.model.access.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="38" selection-start-column="38" selection-end-column="38" />
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/__init__.py">
+    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/l10n_it_edi/models/res_company.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="29" column="81" selection-start-line="29" selection-start-column="81" selection-end-line="29" selection-end-column="81" />
-          <folding>
-            <element signature="e#99#112#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/wizard/mrp_bom_line_supplierinfo.py">
+    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/mrp/views/mrp_production_views.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3276">
-          <caret line="185" column="41" selection-start-line="185" selection-start-column="41" selection-end-line="185" selection-end-column="41" />
-          <folding>
-            <element signature="e#99#124#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="329">
+          <caret line="159" column="39" selection-start-line="159" selection-start-column="39" selection-end-line="159" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/models/product.py">
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/mrp_extend/models/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-          <folding>
-            <element signature="e#99#139#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="63">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/models/res_company.py">
+    <entry file="file://$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/data/sale_quotation_demo.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/data/res_config_settings_data.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/models/res_config_settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/wizard/mrp_bom_line_supplierinfo_views.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="786">
-          <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+        <state relative-caret-position="84">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/__manifest__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
+        <state relative-caret-position="273">
+          <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/models/mrp_bom.py">
+    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/mrp/models/mrp_production.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6">
-          <caret line="73" column="32" lean-forward="true" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+        <state relative-caret-position="105">
+          <caret line="76" selection-start-line="76" selection-end-line="87" selection-end-column="75" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/addons_vpc/odoo.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/LICENSE">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/models/sale_rfq.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="120" column="25" selection-start-line="120" selection-start-column="25" selection-end-line="120" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/sale_order/__init__.py">
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/models/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo-demo/odoo11e/addons/account_payment/models/account_invoice.py">
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/mrp_extend/__manifest__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="336">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/odoo.conf">
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/mrp_extend/views/mrp.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="128" selection-start-line="9" selection-start-column="128" selection-end-line="9" selection-end-column="128" />
+        <state relative-caret-position="294">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/sale_order/views/sale_views_inherit.xml">
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/mrp_extend/models/mrp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5479" />
+        <state relative-caret-position="282">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/account/views/account_invoice_view.xml">
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/views/res_company.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="578" column="72" selection-start-line="578" selection-start-column="72" selection-end-line="578" selection-end-column="72" />
+        <state relative-caret-position="399">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/account/views/account_payment_view.xml">
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/data/image.jpg" />
+    <entry file="file://$PROJECT_DIR$/odoo12e/addons_vpc/sale_quotation/data/sale_quotation_data.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-597">
-          <caret line="375" column="31" selection-start-line="375" selection-start-column="31" selection-end-line="375" selection-end-column="31" />
+        <state relative-caret-position="105">
+          <caret line="5" column="107" lean-forward="true" selection-start-line="5" selection-start-column="79" selection-end-line="5" selection-end-column="107" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://Python/odoo12e.vpc_addons.account_extend.models.account_invoice.AccountInvoice">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>Python</ID>
-          <OriginalElement>odoo12e.vpc_addons.account_extend.models.account_invoice.AccountInvoice</OriginalElement>
-          <nodes>
-            <node x="" y="">odoo12e.vpc_addons.account_extend.models.account_invoice.AccountInvoice</node>
-            <node x="" y="">Model</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="300.0" y="79.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
+    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/delivery/models/delivery_carrier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="184" column="20" selection-start-line="184" selection-start-column="20" selection-end-line="184" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/account_extend/models/__init__.py">
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/base/__manifest__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/base/data/res_partner_data.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/base/views/res_company_views.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo-demo/odoo11e/addons/account/models/account_invoice.py">
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/models/res_company.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19908">
-          <caret line="964" column="34" selection-start-line="964" selection-start-column="8" selection-end-line="964" selection-end-column="34" />
+        <state relative-caret-position="210">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo_github/addons/stock_account/models/account_invoice.py">
+    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/base/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        <state relative-caret-position="252">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
           <folding>
-            <element signature="e#100#114#0" expanded="true" />
+            <element signature="e#137#178#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/odoo.egg-info/SOURCES.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/static/img/res_company_chintech_logo.png" />
+    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/base/models/res_company.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/odoo.egg-info/dependency_links.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/static/img/res_company_chintech_logo.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/odoo.egg-info/requires.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/__manifest__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/.gitmodules">
+    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/stock/data/stock_demo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="132" column="20" selection-start-line="132" selection-start-column="20" selection-end-line="132" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/data/res_partner_data.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/account/models/account_payment.py">
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/data/res_company_data.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="432" column="17" selection-start-line="432" selection-start-column="4" selection-end-line="432" selection-end-column="17" />
-          <folding>
-            <element signature="e#25#64#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="147">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/account_reports/models/account_move_line.py">
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/data/res_company_demo.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="42">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/sale_order/models/sale_order.py">
+    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/currency_rate_live/__manifest__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        <state relative-caret-position="189">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/sale_order/models/sale_wip.py">
+    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/currency_rate_live/views/service_cron_data.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/currency_rate_live/views/res_config_settings_views.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/stock_extend/__manifest__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="273">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/account_extend/__manifest__.py">
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/stock_extend/views/stock.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+        <state relative-caret-position="126">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/account/models/account_invoice.py">
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/stock_extend/data/res_partner_demo.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="304" selection-start-line="304" selection-end-line="304" />
-          <folding>
-            <element signature="e#25#60#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="252">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/account/models/account_move.py">
+    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/currency_rate_live/demo/res_company_demo.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29568">
-          <caret line="1447" column="50" selection-start-line="1447" selection-start-column="38" selection-end-line="1447" selection-end-column="50" />
-          <folding>
-            <element signature="e#25#36#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="231">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/sale_order/wizard/__init__.py">
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/stock_extend/data/res_company_demo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/stock_extend/security/ir.model.access.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/stock_extend/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/stock_extend/models/stock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/stock_extend/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/base_extend/data/res_partner_demo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="68" selection-start-line="16" selection-start-column="68" selection-end-line="16" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo-demo/odoo12e/.gitmodules">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/account_extend/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/account_extend/models/account_invoice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1261">
-          <caret line="72" column="34" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="14" />
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/odoo/addons/sale/wizard/sale_make_invoice_advance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="179" column="54" selection-start-line="129" selection-end-line="179" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/account_extend/views/account_invoice.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="26" column="78" selection-start-line="26" selection-start-column="78" selection-end-line="26" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/odoo_github/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/sale_order/wizard/sale_make_invoice_advance_inherit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="67" column="55" selection-start-line="67" selection-start-column="55" selection-end-line="67" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/odoo12e/vpc_addons/sale_order/wizard/sale_make_invoice_advance_views_inherit.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-441" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitmodules">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitmodules">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="483">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo12e/.gitmodules">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="53" />
         </state>
       </provider>
     </entry>
